@@ -48,31 +48,23 @@ Dynamics*, *Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)*
 
 # CV summary
 
-|                                         |                       |                                                                                                                         |                                                                                             |                                                                                        |
-| --------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Positions**                           | **Articles**          | **Presentations**                                                                                                       | **Teaching**                                                                                | **Funding<br> proposals**                                                              |
-| Postdoc<br> Earth Sciences (UNIL)       |                       | 21 published (19 peer reviewed) > 650 citations <br><br><br> 13 articles reviewed (for 8 journals & 1<br> organisation) | 18<br> conference contributions 5<br> invited talks 1<br> award 1<br> outreach presentation | 10<br> students supervised 6<br> students co-supervised 2<br> practical courses taught |
-| Postdoc<br> Earth Sciences              | Heidelberg University |                                                                                                                         |                                                                                             |                                                                                        |
-| PhD<br> Physics MSc Physics BSc Physics |                       |                                                                                                                         |                                                                                             |                                                                                        |
+|                                                                                                                                        |                                                                                                                         |                                                                                             |                                                                                        |                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Positions**                                                                                                                          | **Articles**                                                                                                            | **Presentations**                                                                           | **Teaching**                                                                           | **Funding<br> proposals**                                                          |
+| Postdoc<br> Earth Sciences (UNIL) <br><br>Postdoc<br> Earth Sciences (Uni HD)<br>PhD<br> Physics MSc Physics BSc Physics <br> (Uni HD) | 21 published (19 peer reviewed) > 650 citations <br><br><br> 13 articles reviewed (for 8 journals & 1<br> organisation) | 18<br> conference contributions 5<br> invited talks 1<br> award 1<br> outreach presentation | 10<br> students supervised 6<br> students co-supervised 2<br> practical courses taught | 5 successful as PI (~ 880 000€)<br/>2 unsuccessful<br/>agencies:  (DFG, SNSF, ERC) |
 
-# Employment
-
-history**:
+# Employment history:
 
 since 03.2021:
- Post-Doctoral Research Assistant, University
-of Lausanne (Switzerland), 
-Institute of Earth Sciences, *Laboratory
-for Biogeochemical Oceanography Across Time* (with Samuel Jaccard)
+Post-Doctoral Research Assistant, University of Lausanne (Switzerland), 
+Institute of Earth Sciences, *Laboratory for Biogeochemical Oceanography Across Time* (with Samuel Jaccard)
 
 07.2017 – 10.2020: 
 Post-Doctoral Research Assistant, Heidelberg University (Germany), 
-Institute of Earth Sciences, *Past Ocean
-Dynamics* (with Jörg Lippold)
+Institute of Earth Sciences, *Past Ocean Dynamics* (with Jörg Lippold)
 
 08.2013 – 06.2017: Doctoral Research
- Assistant, Heidelberg University (Germany), Institute of
- Environmental Physics, *Physics of Environmental Archives* (with Norbert Frank)
+ Assistant, Heidelberg University (Germany), Institute of Environmental Physics, *Physics of Environmental Archives* (with Norbert Frank)
 
 # Education:
 
@@ -82,8 +74,7 @@ PhD. in Physics at Heidelberg
 MSc. in Physics at Heidelberg University (2011 – 2013)
 
 BSc. in Physics at Heidelberg University (2007 – 2011) 
-(including one Erasmus exchange semester at the University of
- Manchester, UK, in 2009)
+(including one Erasmus exchange semester at the University of Manchester, UK, in 2009)
 
 # Work and research philosophy:
 
@@ -110,9 +101,7 @@ supervise students, foster critical thinking.
 
 # 
 
-# **Field
-
-expeditions**:
+# Field expeditions:
 
 2021: GEOTRACES process study cruise GApr16 *“**MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
 
@@ -120,9 +109,7 @@ expeditions**:
 
 2017: Research cruise M141-2 onboard RV Meteor (CTD operations; Eastern North Atlantic and Mediterranean Sea)
 
-# **Work
-
-in other Laboratories**:
+# Work in other Laboratories:
 
 2011: Internship at Southampton Oceanographic Centre (UK) in Prof. Gavin Foster’s research group, working on boron isotope analyses from planktonic foraminifera
 
@@ -145,9 +132,7 @@ sampling and scientific exchange
 
 2018: Invited Talk at Lamont-Doherty Earth Observatory (New York State, USA)
 
-# Workshops
-
-and Conferences**:
+# Workshops and Conferences:
 
 2021: Convenor of Goldschmidt  international geochemistry conference session  *“Drivers of the climate system over the Cenozoic Era**”*
 
