@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research
+subtitle: Scientific work
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I come from a physics education with interest in chemistry, and am 
+now working in palaeoclimatology and marine isotope geochemistry – which
+ helps me maintain a broad and comprehensive scientific approach. 
+Combined with rigorous statistical analysis, method development, and 
+modelling, it allows me to improve the spatial and temporal coverage of 
+palaeoclimatological data and decreases the risk of bias, thus 
+increasing our confidence and the significance of the interpretations. I
+ also enjoy to supervise student theses, foster critical thinking, and 
+teach classes.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My ongoing research topics include the investigation of:  
+– Atlantic deep water mass distributions since the Last Glacial Maximum,  
+– biological productivity, ocean circulation, and carbon storage in the Southern Ocean, and  
+– deep sea sediments as sinks and sources of dissolved trace metals.
