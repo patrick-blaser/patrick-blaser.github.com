@@ -20,7 +20,7 @@ author: Patrick Blaser
 ###############################################
 
 navbar-links:
-  About Me: "research"
+  Research: "research"
   CV: "CV"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
