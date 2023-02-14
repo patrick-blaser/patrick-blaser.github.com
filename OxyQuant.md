@@ -7,7 +7,11 @@ footer-extra: OxyQuant_image_source.html
 
 ---
 
-![Funded by EU](/assets/img/EU_funding.jpg){width = "120"}
+![Funded by EU](/assets/img/EU_funding.jpg)
+
+<div>
+HTML
+</div>
 
 [OxyQuant](https://cordis.europa.eu/project/id/101065424){:target="_blank"} is a research project funded by the European Commission's Marie Skłodowska-Curie Global Postdoctoral Fellowship scheme. It will last three years  - the first two years at the University of Lausanne, Switzerland) and the last year at GEOMAR Helmholtz Centre for Ocean Research Kiel (Germany).
 
