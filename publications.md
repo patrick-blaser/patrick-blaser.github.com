@@ -28,12 +28,10 @@ subtitle:
  a:link { color: #000080; so-language: zxx; text-decoration: underline }
  </style>
 
-## **2022**
+## 2022
 
 - Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022).
    Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment. **Quaternary Science Reviews** 279, 107404.
-  
-  
 
 <br>
 
@@ -46,8 +44,6 @@ subtitle:
 
 <br>
 
-<br>
-
 ## 2020
 
 - Pöppelmeier, F., Scheen, J., **Blaser, P.**, Lippold, J., Gutjahr, M., Stocker, T.F. (2020). Influence of Elevated Nd Fluxes on the Northern Nd Isotope End Member of the Atlantic During the Early Holocene. ***Paleoceanography and Paleoclimatology*** 35, e2020PA003973.
@@ -57,49 +53,37 @@ subtitle:
 
 - **Blaser, P.**, Gutjahr, M., Pöppelmeier, F., Frank, M., Kaboth-Bahr, S., Lippold, J. (2020). Labrador Sea bottom water provenance and REE exchange during the past 35,000 years. ***Earth and Planetary Science Letters*** 542, 116299.
 
-- *Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Oppo, D.W., Jaccard, S.L., Regelous, M., Huang, K.-F., Süfke, F., Lippold, J. (2020). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. ***Earth and Planetary Science
-   Letters*** 531, 115963.
+- Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Oppo, D.W., Jaccard, S.L., Regelous, M., Huang, K.-F., Süfke, F., Lippold, J. (2020). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. ***Earth and Planetary Science Letters*** 531, 115963.
 
 - Süfke, F., Schulz, H., Scheen, J., Szidat, S., Regelous, M., **Blaser, P.**, Pöppelmeier, F., Goepfert, T.J., Stocker, T.F., Lippold, J. (2020). Inverse response of 231Pa/230Th to variations of the Atlantic meridional overturning circulation in the North Atlantic intermediate water. **Geo-Marine Letter** 40, 75–87.
 
-- *Vogt-Vincent, N., Lippold, J., Kaboth-Bahr, S., **Blaser, P.** (2020). Ice-rafted debris as a source of non-conservative behaviour for the εNd palaeotracer: insights from a simple model. ***Geo-Marine Letters*** 40,
-   325–340.
-
-<br>
+- Vogt-Vincent, N., Lippold, J., Kaboth-Bahr, S., **Blaser, P.** (2020). Ice-rafted debris as a source of non-conservative behaviour for the εNd palaeotracer: insights from a simple model. ***Geo-Marine Letters*** 40, 325–340.
 
 <br>
 
 ## 2019
 
 - Süfke F., Pöppelmeier F., Goepfert T. J., Regelous M., Koutsodendris A., **Blaser
-   P.**, Gutjahr M. and Lippold J. (2019). Constraints on the northwestern Atlantic deep water circulation from 231Pa/230Th during the last 30,000 years. ***Paleoceanography and Paleoclimatology*** *34, 1945–1958.*
+   P.**, Gutjahr M. and Lippold J. (2019). Constraints on the northwestern Atlantic deep water circulation from 231Pa/230Th during the last 30,000 years. ***Paleoceanography and Paleoclimatology*** 34, 1945–1958.
 
 - **Blaser P.**, Frank M. and van de Flierdt T. (2019). Revealing past ocean circulation with neodymium isotopes. ***Past Global Changes Magazine*** 27, 54–55.
 
-- Pöppelmeier F., Gutjahr M., **Blaser P.**, Oppo D. W., Jaccard S. L., Regelous M., Huang K.-F., Süfke F. and Lippold J. (2019). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. ****Earth and Planetary Science
-   Letters***, 115963.
+- Pöppelmeier F., Gutjahr M., **Blaser P.**, Oppo D. W., Jaccard S. L., Regelous M., Huang K.-F., Süfke F. and Lippold J. (2019). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. ***Earth and Planetary Science   Letters***, 115963.
 
-- Pöppelmeier F., **Blaser P.**, Gutjahr M., Süfke F., Thornalley D. J. R., Grützner J., Jakob K. A., Link J. M., Szidat S. and Lippold J. (2019). Influence of Ocean Circulation and Benthic Exchange on Deep Northwest Atlantic Nd Isotope Records During the
-   Past 30,000 Years. ***Geochemistry, Geophysics, Geosystems*** 20, 4457–4469.
+- Pöppelmeier F., **Blaser P.**, Gutjahr M., Süfke F., Thornalley D. J. R., Grützner J., Jakob K. A., Link J. M., Szidat S. and Lippold J. (2019). Influence of Ocean Circulation and Benthic Exchange on Deep Northwest Atlantic Nd Isotope Records During the Past 30,000 Years. ***Geochemistry, Geophysics, Geosystems*** 20, 4457–4469.
 
-- Lippold J., Pöppelmeier F., Süfke F., Gutjahr M., Goepfert T. J., **Blaser P.**, Friedrich O., Link J. M., Wacker L., Rheinberger S. and Jaccard S. L. (2019). Constraining the
-   Variability of the Atlantic Meridional Overturning Circulation During the Holocene. ***Geophysical Research Letters*** 46, 11338–11346
+- Lippold J., Pöppelmeier F., Süfke F., Gutjahr M., Goepfert T. J., **Blaser P.**, Friedrich O., Link J. M., Wacker L., Rheinberger S. and Jaccard S. L. (2019). Constraining the Variability of the Atlantic Meridional Overturning Circulation During the Holocene. ***Geophysical Research Letters*** 46, 11338–11346.
 
-- **Blaser P.**,
-  Pöppelmeier F., Schulz H., Gutjahr M., Frank M., Lippold J., Heinrich H., Link J. M., Hoffmann J., Szidat S. and Frank N. (2019). The resilience and sensitivity of Northeast Atlantic deep water εNd to overprinting by detrital fluxes over the past 30,000 years. ***Geochimica et Cosmochimica Acta*** 245, 79–97.
-
-<br>
+- **Blaser P.**, Pöppelmeier F., Schulz H., Gutjahr M., Frank M., Lippold J., Heinrich H., Link J. M., Hoffmann J., Szidat S. and Frank N. (2019). The resilience and sensitivity of Northeast Atlantic deep water εNd to overprinting by detrital fluxes over the past 30,000 years. ***Geochimica et Cosmochimica Acta*** 245, 79–97.
 
 <br>
 
 ## 2018
 
 - **Blaser P.** and Jacek R. (2018). Undisturbed Measurements of Oxygen in Deep Sea Sediments with Oxygen Sensitive Foil, ***Application Note***, Heidelberg. Available at:
-   [Undisturbed Measurements of Oxygen in Deep Sea Sediments with Oxygen Sensitive Foil](https://www.presens.de/knowledge/publications/application-note/undisturbed-measurements-of-oxygen-in-deep-sea-sediments-with-oxygen-sensitive-foil-1598.html)
+   [Undisturbed Measurements of Oxygen in Deep Sea Sediments with Oxygen Sensitive Foil](https://www.presens.de/knowledge/publications/application-note/undisturbed-measurements-of-oxygen-in-deep-sea-sediments-with-oxygen-sensitive-foil-1598.html).
 
 - Pöppelmeier F., Gutjahr M., **Blaser P**., Keigwin L. D. and Lippold J. (2018). Origin of Abyssal NW Atlantic Water Masses Since the Last Glacial Maximum. ***Paleoceanography and Paleoclimatology*** 33, 530–543.
-
-<br>
 
 <br>
 
@@ -109,16 +93,12 @@ subtitle:
 
 <br>
 
-<br>
-
 ## 2016
 
 - Lippold J., Gutjahr M., **Blaser P.**, Christner E., de Carvalho Ferreira M. L., Mulitza S., Christl M., Wombacher F., Böhm E., Antz B., Cartapanis O., Vogel H. and Jaccard S. L. (2016). Deep water provenance and dynamics of the (de)glacial Atlantic meridional overturning circulation. ***Earth and Planetary Science Letters*** 445, 68–78.
 
 - **Blaser P.**, Lippold J., Gutjahr M., Frank N., Link J. M. and Frank M. (2016). Extracting foraminiferal seawater Nd isotope signatures from bulk deep sea
    sediment by chemical leaching. ***Chemical Geology*** 439, 189–204.
-
-<br>
 
 <br>
 

@@ -31,14 +31,14 @@ subtitle:
 
 # Dr. Patrick Blaser
 
-## Post-Doctoral Research Assistant
+### Post-Doctoral Research Assistant
 
 at University of Lausanne (Switzerland) <br>Faculty of Geosciences and Environment<br>Institute of Earth Sciences 
 Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* ([BOAT](https://wp.unil.ch/boat/){:target="_blank"})
 
-<br><br>
+<br>
 
-# Employment history:
+## Employment history:
 
 since 03.2021:
 Post-Doctoral Research Assistant, University of Lausanne (Switzerland), 
@@ -53,7 +53,7 @@ Institute of Earth Sciences, *Past Ocean Dynamics* (with Jörg Lippold)
 
 <br>
 
-# Education:
+## Education:
 
 PhD. in Physics at Heidelberg
  University, Institute of Environmental Physics (2013 – 2017)
@@ -63,34 +63,18 @@ MSc. in Physics at Heidelberg University (2011 – 2013)
 BSc. in Physics at Heidelberg University (2007 – 2011) 
 (including one Erasmus exchange semester at the University of Manchester, UK, in 2009)
 
-<br><br>
+<br>
 
-# Work and research philosophy:
+## Work and research philosophy:
 
-Coming from a physics education with interest in
-chemistry and working in (palaeo-)climatology and marine isotope
-geochemistry, I like to keep a broad and comprehensive view of my
-research topic. To achieve this, I desire to discuss my own and
-other’s research in detail, because often the different experiences
-and ways of thinking can have significant impact on the
-interpretations of complex data. Thus, a good connection with experts
-across different disciplines is crucial.
+Coming from a physics education with interest in chemistry and working in (palaeo-)climatology and marine isotope geochemistry, I like to keep a broad and comprehensive view of my research topic. To achieve this, I desire to discuss my own and other’s research in detail, because often the different experiences and ways of thinking can have significant impact on the interpretations of complex data. Thus, a good connection with experts across different disciplines is crucial.
 
-I use statistical analyses and simple box models
-wherever meaningful to make processes (or their absence) visible that
-tend to be obscured in heaps of uncertain and variably biased data,
-and to estimate their significance. On the laboratory side I like to
-know exactly what my methods do and how they work, and use this
-knowledge to make the analyses robust and efficient so that a larger
-sample throughput can be achieved. This in turn lets me gain better
-spatial and temporal coverage of palaeoclimatological data, which
-increases our confidence and the significance of the interpretations
-and decreases the risk of bias. Moreover, I enjoy to teach and
+I use statistical analyses and simple box models wherever meaningful to make processes (or their absence) visible that tend to be obscured in heaps of uncertain and variably biased data, and to estimate their significance. On the laboratory side I like to know exactly what my methods do and how they work, and use this knowledge to make the analyses robust and efficient so that a larger sample throughput can be achieved. This in turn lets me gain better spatial and temporal coverage of palaeoclimatological data, which increases our confidence and the significance of the interpretations and decreases the risk of bias. Moreover, I enjoy to teach and
 supervise students, foster critical thinking.
 
-<br><br>
+<br>
 
-# Research Cruises:
+## Research Cruises:
 
 2021: GEOTRACES process study cruise GApr16 *“MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
 
@@ -98,9 +82,9 @@ supervise students, foster critical thinking.
 
 2017: Research cruise M141-2 onboard RV Meteor (CTD operations; Eastern North Atlantic and Mediterranean Sea)
 
-<br><br>
+<br>
 
-# **Invited Talks**:
+## Invited Talks:
 
 2022: Invited Talk in the PAGES OC3 seminar series (international online seminar)
 
@@ -116,9 +100,9 @@ supervise students, foster critical thinking.
 
 2018: Invited Talk at Lamont-Doherty Earth Observatory (New York State, USA)
 
-<br><br>
+<br>
 
-# Workshops and Conferences:
+## Workshops and Conferences:
 
 2021: Convenor of Goldschmidt  international geochemistry conference session  *“Drivers of the climate system over the Cenozoic Era”*
 
@@ -133,15 +117,15 @@ supervise students, foster critical thinking.
 
 Also, I have repeatedly visited AGU  Fall meeting, EGU’s General Assembly, Goldschmidt international  conference on Geochemistry, International Conference on  Paleoceanography and other  conferences, and  presented my research as oral and poster contributions.
 
-<br><br>
+<br>
 
-# **Outreach**:
+## Outreach:
 
 2020: Presentation and discussion about climate change for A-level students at “Akademie für Kommunikation” secondary school, Karlsruhe, Germany
 
-<br><br>
+<br>
 
-# **Skills**:
+## Skills:
 
 Languages: German (native speaker), English (fluent), French (basic command), Spanish (basic command)
 
@@ -156,9 +140,9 @@ Data science: data base management statistical data analysis visualisation of co
 
 Safety: training in fire protection and handling of dangerous chemicals including hydrofluoric acid
 
-<br><br>
+<br>
 
-# **Review activity:**
+## Review activity:
 
 ### for journals
 
@@ -182,9 +166,9 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - UK Research and Innovation (UKRI)
 
-<br><br>
+<br>
 
-# Acquired funding:
+## Acquired funding:
 
 2022: European Commission Marie Skłodowska-Curie Global Fellowship for 3 year project on the use of trace metal geochemistry in marine sediments for the reconstruction of bottom water oxygen concentrations (~ 320 000 €)
 
@@ -198,13 +182,11 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 <br>
 
-<br>
-
-# Teaching:
+## Teaching:
 
 ### Supervision
 
-**as principal or specialist supervisor**
+#### as principal or specialist supervisor
 
 - Pfannschmidt J. (2020) *Can concentration* *changes* *of Atlantic deep water Nd be estimated from Holocene end member
    variations?* **Bachelor’s thesis**.
@@ -229,7 +211,7 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 <br>
 
-### Co-supervised student theses
+#### Co-supervised student theses
 
 - Bollen M. (ongoing) *Constraining past changes in remineralized carbon sequestration in Southern Ocean subsurface ocean water masses across the last glacial cycle*. **PhD thesis**.
 
@@ -247,7 +229,6 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 ### Supervised experimental courses
 
-- practical training course in physics for earth scientists (execution, description, and
-   evaluation of physical laboratory experiments)
+- practical training course in physics for earth scientists (execution, description, and evaluation of physical laboratory experiments)
 
-- practical field experiments in physical limnology (CTD  measurements on a lake and radon decay counting in the  laboratory)
+- practical field experiments in physical limnology (CTD measurements on a lake and radon decay counting in the laboratory)
