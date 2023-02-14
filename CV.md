@@ -34,7 +34,7 @@ subtitle:
 ## Post-Doctoral Research Assistant
 
 at University of Lausanne (Switzerland) <br>Faculty of Geosciences and Environment<br>Institute of Earth Sciences 
-Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* 
+Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* *([BOAT]([Laboratory for Biogeochemical Oceanography Across Time](https://wp.unil.ch/boat/ )))* 
 
 <br><br>
 
@@ -50,8 +50,6 @@ Institute of Earth Sciences, *Past Ocean Dynamics* (with Jörg Lippold)
 
 08.2013 – 06.2017: Doctoral Research
  Assistant, Heidelberg University (Germany), Institute of Environmental Physics, *Physics of Environmental Archives* (with Norbert Frank)
-
-<br>
 
 <br>
 
@@ -202,11 +200,7 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 <br>
 
-# **Teaching:**
-
-<br>
-
-<br>
+# Teaching:
 
 ### Supervision
 
@@ -235,8 +229,6 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 <br>
 
-<br>
-
 ### Co-supervised student theses
 
 - Bollen M. (ongoing) *Constraining past changes in remineralized carbon sequestration in Southern Ocean subsurface ocean water masses across the last glacial cycle*. **PhD thesis**.
@@ -253,11 +245,9 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 <br>
 
-<br>
-
 ### Supervised experimental courses
 
 - practical training course in physics for earth scientists (execution, description, and
    evaluation of physical laboratory experiments)
 
-- practical field experiments in physical limnology (CTD  measurements on an artificial lake and radon decay counting in the  laboratory)
+- practical field experiments in physical limnology (CTD  measurements on a lake and radon decay counting in the  laboratory)
