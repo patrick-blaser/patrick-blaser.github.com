@@ -10,4 +10,4 @@ footer-extra: OxyQuant_image_source.html
 
 Within the OxyQuant project I aim to develop a geochemoical toolkit with which we can gain quantitative information about past ocean water oxygen concentration from the composition of marine sediments. With such a toolkit, if we applied it to older, deeper buried marine sediments, we would be able to reconstruct deep ocean oxygenation in the past. My aim is to use this toolkit in order to investigate deep ocean oxygenation, carbon storage, and circulation during the maximum of the last ice age, circa 21 thousand years age.
 
-![OxyQuant scheme](/assets/img/MSCA_Redox_scheme.png){: width = "120px"}
+![OxyQuant scheme](/assets/img/OxyQuant_scheme.png){: width = "50px"}
