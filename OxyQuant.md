@@ -24,3 +24,5 @@ I will sample sediment cores from diverse biogeochemical settings within their u
    </a>
    <figcaption>This is the Jekyll logo</figcaption>
 </figure>
+
+{% include image.html url="http://jekyllrb.com" max-width="200px" file="logo.png" alt="Jekyll logo" caption="This is the Jekyll logo." %}
