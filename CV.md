@@ -34,7 +34,7 @@ subtitle:
 ## Post-Doctoral Research Assistant
 
 at University of Lausanne (Switzerland) <br>Faculty of Geosciences and Environment<br>Institute of Earth Sciences 
-Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* ([BOAT]([Laboratory for Biogeochemical Oceanography Across Time](https://wp.unil.ch/boat/)){:target="_blank"})
+Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* ([BOAT](https://wp.unil.ch/boat/){:target="_blank"})
 
 <br><br>
 
