@@ -13,8 +13,8 @@ Within the OxyQuant project I aim to develop a geochemoical toolkit with which w
 ![OxyQuant scheme](/assets/img/OxyQuant_scheme.png){: width = "50px"}
 
 <figure class="image">
-  <img src="{{ /assets/img/OxyQuant_scheme.png }}" alt="{{ alttext }}">
-  <figcaption>{{ include.description }}</figcaption>
+  <img src="/assets/img/OxyQuant_scheme.png" alt="alttext">
+  <figcaption> caption </figcaption>
 </figure>
 
 <!-- {% include image.html url="/assets/img/OxyQuant_scheme.png" description="Sampling strategy for OxyQuant." %} -->
