@@ -30,14 +30,16 @@ subtitle:
 
 # Dr. Patrick Blaser
 
-# Post-Doctoral Research Assistant
+## Post-Doctoral Research Assistant
 
-at University of Lausanne (Switzerland), Faculty of Geosciences
-and Environment, Institute of Earth Sciences, 
-Section for *Paleoenvironment, Evolution of Life and Ocean
-Dynamics*, *Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)*
+at University of Lausanne (Switzerland)
 
+Faculty of Geosciences and Environment
 
+Institute of Earth Sciences 
+Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*
+
+*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)*
 
 
 
@@ -91,7 +93,7 @@ increases our confidence and the significance of the interpretations
 and decreases the risk of bias. Moreover, I enjoy to teach and
 supervise students, foster critical thinking.
 
- 
+
 
 # Research Cruises:
 
@@ -154,8 +156,6 @@ Measurement MC-ICP-MS (experienced), ICP-QMS (experienced), HR-ICP-MS (experienc
 Data science: data base management statistical data analysis visualisation of complex data numerical model development and application
 
 Safety: training in fire protection and handling of dangerous chemicals including hydrofluoric acid
-
-
 
 # 
 
