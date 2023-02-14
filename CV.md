@@ -40,7 +40,9 @@ Faculty of Geosciences and Environment
 Institute of Earth Sciences 
 Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*
 
-*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)*
+*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* \
+
+\
 
 
 
@@ -57,8 +59,6 @@ Institute of Earth Sciences, *Past Ocean Dynamics* (with Jörg Lippold)
 08.2013 – 06.2017: Doctoral Research
  Assistant, Heidelberg University (Germany), Institute of Environmental Physics, *Physics of Environmental Archives* (with Norbert Frank)
 
-
-
 # Education:
 
 PhD. in Physics at Heidelberg
@@ -68,8 +68,6 @@ MSc. in Physics at Heidelberg University (2011 – 2013)
 
 BSc. in Physics at Heidelberg University (2007 – 2011) 
 (including one Erasmus exchange semester at the University of Manchester, UK, in 2009)
-
-
 
 # Work and research philosophy:
 
@@ -94,8 +92,6 @@ increases our confidence and the significance of the interpretations
 and decreases the risk of bias. Moreover, I enjoy to teach and
 supervise students, foster critical thinking.
 
-
-
 # Research Cruises:
 
 2021: GEOTRACES process study cruise GApr16 *“MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
@@ -103,8 +99,6 @@ supervise students, foster critical thinking.
 2018: Research cruise M151 onboard RV Meteor (CTD and multi-corer operations, sediment pore water extractions; Eastern North Atlantic and Azores Plateau)
 
 2017: Research cruise M141-2 onboard RV Meteor (CTD operations; Eastern North Atlantic and Mediterranean Sea)
-
-
 
 # **Invited Talks**:
 
@@ -122,8 +116,6 @@ supervise students, foster critical thinking.
 
 2018: Invited Talk at Lamont-Doherty Earth Observatory (New York State, USA)
 
-
-
 # Workshops and Conferences:
 
 2021: Convenor of Goldschmidt  international geochemistry conference session  *“Drivers of the climate system over the Cenozoic Era”*
@@ -139,13 +131,9 @@ supervise students, foster critical thinking.
 
 Also, I have repeatedly visited AGU  Fall meeting, EGU’s General Assembly, Goldschmidt international  conference on Geochemistry, International Conference on  Paleoceanography and other  conferences, and  presented my research as oral and poster contributions.
 
-
-
 # **Outreach**:
 
 2020: Presentation and discussion about climate change for A-level students at “Akademie für Kommunikation” secondary school, Karlsruhe, Germany
-
-
 
 # **Skills**:
 
@@ -161,8 +149,6 @@ Measurement MC-ICP-MS (experienced), ICP-QMS (experienced), HR-ICP-MS (experienc
 Data science: data base management statistical data analysis visualisation of complex data numerical model development and application
 
 Safety: training in fire protection and handling of dangerous chemicals including hydrofluoric acid
-
- 
 
 # **Review activity:**
 
@@ -188,8 +174,6 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - UK Research and Innovation (UKRI)
 
- 
-
 # Acquired funding:
 
 2022: European Commission Marie Skłodowska-Curie Global Fellowship for 3 year project on the use of trace metal geochemistry in marine sediments for the reconstruction of bottom water oxygen concentrations (~ 320 000 €)
@@ -201,8 +185,6 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 2015: DFG research grant for 3 year PhD project on ocean circulation reconstruction of the past 1 Million years with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 € [Link](https://gepris.dfg.de/gepris/projekt/261039032){:target="_blank"})
 
 2013: DFG research grant for own 3 year PhD project on Last Glacial Maximum ocean circulation reconstruction with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 €;  [Link](https://gepris.dfg.de/gepris/projekt/242773409/ergebnisse?context=projekt&task=showDetail&id=242773409&selectedSubTab=2&))
-
- 
 
 # **Teaching:**
 
