@@ -34,7 +34,7 @@ subtitle:
 ## Post-Doctoral Research Assistant
 
 at University of Lausanne (Switzerland) <br>Faculty of Geosciences and Environment<br>Institute of Earth Sciences 
-Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* *([BOAT]([Laboratory for Biogeochemical Oceanography Across Time](https://wp.unil.ch/boat/ )))* 
+Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* ([BOAT]([Laboratory for Biogeochemical Oceanography Across Time](https://wp.unil.ch/boat/)){:target="_blank"})
 
 <br><br>
 
@@ -194,7 +194,7 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 2015: DFG research grant for 3 year PhD project on ocean circulation reconstruction of the past 1 Million years with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 € [Link](https://gepris.dfg.de/gepris/projekt/261039032){:target="_blank"})
 
-2013: DFG research grant for own 3 year PhD project on Last Glacial Maximum ocean circulation reconstruction with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 €;  [Link](https://gepris.dfg.de/gepris/projekt/242773409/ergebnisse?context=projekt&task=showDetail&id=242773409&selectedSubTab=2&))
+2013: DFG research grant for own 3 year PhD project on Last Glacial Maximum ocean circulation reconstruction with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 €;  [Link](https://gepris.dfg.de/gepris/projekt/242773409/ergebnisse?context=projekt&task=showDetail&id=242773409&selectedSubTab=2&){:target="_blank"})
 
 <br>
 
