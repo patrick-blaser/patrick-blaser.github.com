@@ -40,11 +40,9 @@ Faculty of Geosciences and Environment
 Institute of Earth Sciences 
 Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*
 
-*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* \
+*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* 
 
-\
-
-
+<br><br>
 
 # Employment history:
 
