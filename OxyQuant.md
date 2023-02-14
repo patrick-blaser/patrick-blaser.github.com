@@ -8,7 +8,7 @@ footer-extra: OxyQuant_image_source.html
 
 ![Funded by EU](/assets/img/EU_funding.jpg){:width = "50"}
 
-
+{% include image.html url = "/assets/img/EU_funding.jpg" description = "Funded by EU" %}
 
 [OxyQuant](https://cordis.europa.eu/project/id/101065424){:target="_blank"} is a research project funded by the European Commission's Marie Skłodowska-Curie Global Postdoctoral Fellowship scheme. It will last three years  - the first two years at the University of Lausanne, Switzerland) and the last year at GEOMAR Helmholtz Centre for Ocean Research Kiel (Germany).
 
@@ -16,6 +16,6 @@ Within the OxyQuant project I aim to develop a geochemical toolkit with which we
 
 ![OxyQuant scheme](/assets/img/OxyQuant_scheme.png)
 
-<br\>
+<br><\br>
 
 Sediment cores from diverse biogeochemical settings will be sampled in the upper section. Ideally, this section will be as young as possible, but should definitely be of Holocene age. Furthermore, the redox front (the sediment depth where pore water oxygen is consumed) lies within the sampling interval, so that samples above and below the redox front can be used.
