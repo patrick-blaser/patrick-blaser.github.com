@@ -3,7 +3,7 @@ layout: page
 title: OxyQuant
 subtitle: Quantitative reconstruction of past seawater oxygen concentrations
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
-footer-extra: "/assets/img/sources/OxyQuant_image.md"
+footer-extra: OxyQuant_image_source.html
 ---
 
 [OxyQuant](https://cordis.europa.eu/project/id/101065424){:target="_blank"} is a research project funded by the European Commission's Marie Skłodowska-Curie Global Postdoctoral Fellowship scheme. It will last three years  - the first two years at the University of Lausanne, Switzerland) and the last year at GEOMAR Helmholtz Centre for Ocean Research Kiel (Germany).
