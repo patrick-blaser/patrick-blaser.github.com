@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 subtitle: 
+
 ---
 
 <title></title>
@@ -97,7 +98,7 @@ supervise students, foster critical thinking.
 
 # Research Cruises:
 
-2021: GEOTRACES process study cruise GApr16 *“**MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
+2021: GEOTRACES process study cruise GApr16 *“MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
 
 2018: Research cruise M151 onboard RV Meteor (CTD and multi-corer operations, sediment pore water extractions; Eastern North Atlantic and Azores Plateau)
 
@@ -106,6 +107,10 @@ supervise students, foster critical thinking.
 
 
 # **Invited Talks**:
+
+2022: Invited Talk in the PAGES OC3 seminar series (international online seminar)
+
+2022: Invited Talk at Woods Hole Oceanographic Institution (Woods Hole, USA)
 
 2022: Invited Talk at the Max Planck Institute for Chemistry (Mainz, Germany)
 
@@ -130,7 +135,7 @@ supervise students, foster critical thinking.
 
 2017: Nature Geoscience Poster  Award at Pages Young  Scientists Meeting (Zaragoza, Spain)
 
-2013: Participation at ECORD Summer  School “*Deep-Sea Sediments – From Stratigraphy to  Age Models*” at MARUM (Bremen, Germany)
+2013: Participation at ECORD Summer  School “*Deep-Sea Sediments – From Stratigraphy to Age Models*” at MARUM (Bremen, Germany)
 
 Also, I have repeatedly visited AGU  Fall meeting, EGU’s General Assembly, Goldschmidt international  conference on Geochemistry, International Conference on  Paleoceanography and other  conferences, and  presented my research as oral and poster contributions.
 
@@ -157,11 +162,11 @@ Data science: data base management statistical data analysis visualisation of co
 
 Safety: training in fire protection and handling of dangerous chemicals including hydrofluoric acid
 
-# 
+ 
 
 # **Review activity:**
 
-## **Journals**
+### for journals
 
 - Chemical Geology
 
@@ -179,11 +184,11 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - Quaternary Science Reviews
 
-## Organisations
+### for organisations
 
 - UK Research and Innovation (UKRI)
 
-# 
+ 
 
 # Acquired funding:
 
@@ -193,15 +198,15 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 2021: SNSF Flexibility Grant (~ 35 000 €)
 
-2015: DFG research grant for 3 year PhD project on ocean circulation reconstruction of the past 1 Million years with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 € [Link](https://gepris.dfg.de/gepris/projekt/261039032))
+2015: DFG research grant for 3 year PhD project on ocean circulation reconstruction of the past 1 Million years with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 € [Link](https://gepris.dfg.de/gepris/projekt/261039032){:target="_blank"})
 
 2013: DFG research grant for own 3 year PhD project on Last Glacial Maximum ocean circulation reconstruction with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 €;  [Link](https://gepris.dfg.de/gepris/projekt/242773409/ergebnisse?context=projekt&task=showDetail&id=242773409&selectedSubTab=2&))
 
-# 
+ 
 
 # **Teaching:**
 
-## Supervision
+### Supervision
 
 **as principal or specialist supervisor**
 
@@ -224,9 +229,9 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - Eisinger P. (2014) *Analysis and evaluation of a leaching procedure for the extraction of authigenic rare earth elements (REE) from marine sediments of the North Atlantic*. **Bachelor’s thesis**.
 
-- de Carvalho Ferreira M. L. (2013) *Water mass reconstruction by Nd isotopic analysis from mid* *A**tlantic ocean sediments*. **Bachelor’s thesis**.
+- de Carvalho Ferreira M. L. (2013) *Water mass reconstruction by Nd isotopic analysis from mid* *Atlantic ocean sediments*. **Bachelor’s thesis**.
 
-## Co-supervised student theses
+### Co-supervised student theses
 
 - Bollen M. (ongoing) *Constraining past changes in remineralized carbon sequestration in Southern Ocean subsurface ocean water masses across the last glacial cycle*. **PhD thesis**.
 
@@ -240,7 +245,7 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - Hauck L. (2017) *Rekonstruktion der Zirkulation im westlichen Nordatlantik über die letzten 30 ka mittels der Neodymisotopie von Blake Bahama Outer Ridge Sedimenten*. **Master’s thesis**.
 
-## Supervised experimental courses
+### Supervised experimental courses
 
 - practical training course in physics for earth scientists (execution, description, and
    evaluation of physical laboratory experiments)

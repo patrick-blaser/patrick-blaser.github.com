@@ -2,6 +2,8 @@
 layout: page
 title: Research
 subtitle: Current research projects
+cover-img: "/assets/img/Meteor_AFrame.JPG"
+
 ---
 
 ## Atlantic deep water mass distribution since the Last Glacial Maximum
