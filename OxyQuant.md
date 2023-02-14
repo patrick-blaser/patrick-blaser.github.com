@@ -18,7 +18,10 @@ Within the OxyQuant project I aim to develop a geochemical toolkit with which we
 I will sample sediment cores from diverse biogeochemical settings within their upper sections. Ideally, these sections will be as young as possible, but should definitely be of Holocene age. Furthermore, the redox front (the sediment depth where pore water oxygen is consumed) lies within the sampling interval, so that samples above and below the redox front can be used.
 
 <figure>
-   <img src="/assets/img/OxyQuant_scheme.png" style="max-width: 400px;"
-      alt="OxyQuant scheme" float = "left" />
-   <figcaption>This is the OxyQuant scheme</figcaption>
+  <a href="/assets/img/OxyQuant_scheme.png">
+   <img src="/assets/img/OxyQuant_scheme.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
+      alt="OxyQuant scheme"
+     class="img-responsive" />
+  </a>
+   <figcaption><i>This is the OxyQuant scheme</i></figcaption>
 </figure>
