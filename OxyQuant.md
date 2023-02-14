@@ -12,8 +12,6 @@ footer-extra: OxyQuant_image_source.html
 
 Within the OxyQuant project I aim to develop a geochemical toolkit with which we can gain quantitative information about ocean water oxygen concentrations from the composition of marine sediments. With such a toolkit, if we applied it to older, deeper buried marine sediments, we would be able to reconstruct deep ocean oxygenation in the past. My aim is to use this toolkit in order to investigate deep ocean oxygenation, carbon storage, and circulation during the peak of the last ice age, circa 21 thousand years age.
 
-[![OxyQuant scheme](/assets/img/OxyQuant_scheme.png){: style="float: left; height: 50%; width: 50%; margin-right: 2em"}{:class="img-responsive"}](/assets/img/OxyQuant_scheme.png)
-
 <br>
 I will sample sediment cores from diverse biogeochemical settings within their upper sections. Ideally, these sections will be as young as possible, but should definitely be of Holocene age. Furthermore, the redox front (the sediment depth where pore water oxygen is consumed) lies within the sampling interval, so that samples above and below the redox front can be used.
 
@@ -23,5 +21,5 @@ I will sample sediment cores from diverse biogeochemical settings within their u
       alt="OxyQuant scheme"
      class="img-responsive" />
   </a>
-   <figcaption><i>This is the OxyQuant scheme </i></figcaption>
+   <figcaption><i>This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme </i></figcaption>
 </figure>
