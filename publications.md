@@ -32,8 +32,8 @@ subtitle:
 
 - Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022).
    Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment. **Quaternary Science Reviews** 279, 107404.
-
- <br>
+  
+  
 
 <br>
 
@@ -46,7 +46,7 @@ subtitle:
 
 <br>
 
- <br>
+<br>
 
 ## 2020
 
