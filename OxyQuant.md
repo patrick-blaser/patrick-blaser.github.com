@@ -6,7 +6,7 @@ cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
 
-![EU_funding_vertical.jpg](/assets/img/EU_funding_vertical.jpg){: style="float: right; height: 30%; width: 30%;"}{:class="img-responsive"}
+![EU_funding_vertical.jpg](/assets/img/EU_funding_vertical.jpg){: style="float: right; height: 22%; width: 22%;"}{:class="img-responsive"}
 
 [OxyQuant](https://cordis.europa.eu/project/id/101065424){:target="_blank"} is a research project funded by the European Commission's Marie Skłodowska-Curie Global Postdoctoral Fellowship scheme. It will last three years  - the first two years at the University of Lausanne, Switzerland) and the last year at GEOMAR Helmholtz Centre for Ocean Research Kiel (Germany).
 
