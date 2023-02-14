@@ -12,6 +12,11 @@ Within the OxyQuant project I aim to develop a geochemoical toolkit with which w
 
 ![OxyQuant scheme](/assets/img/OxyQuant_scheme.png){: width = "50px"}
 
+<figure class="image">
+  <img src="{{ /assets/img/OxyQuant_scheme.png }}" alt="{{ alttext }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
 
-{% include image.html url="/assets/img/OxyQuant_scheme.png" description="Sampling strategy for OxyQuant." %}
+<!-- {% include image.html url="/assets/img/OxyQuant_scheme.png" description="Sampling strategy for OxyQuant." %} -->
+
 <br\>Sediment cores from diverse biogeochemical settings will be sampled in the upper section. Ideally, this section will be as young as possible, but should definitely be of Holocene age. Furthermore, the redox front (the sediment depth where pore water oxygen is consumed) lies within the sampling interval, so that samples above and below the redox front can be used.
