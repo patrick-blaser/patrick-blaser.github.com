@@ -33,14 +33,8 @@ subtitle:
 
 ## Post-Doctoral Research Assistant
 
-at University of Lausanne (Switzerland)
-
-Faculty of Geosciences and Environment
-
-Institute of Earth Sciences 
-Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*
-
-*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* 
+at University of Lausanne (Switzerland) <br>Faculty of Geosciences and Environment<br>Institute of Earth Sciences 
+Section for *Paleoenvironment, Evolution of Life and Ocean Dynamics*<br>*Laboratory for Biogeochemical Oceanography Across Time* *(BOAT)* 
 
 <br><br>
 
@@ -57,6 +51,10 @@ Institute of Earth Sciences, *Past Ocean Dynamics* (with Jörg Lippold)
 08.2013 – 06.2017: Doctoral Research
  Assistant, Heidelberg University (Germany), Institute of Environmental Physics, *Physics of Environmental Archives* (with Norbert Frank)
 
+<br>
+
+<br>
+
 # Education:
 
 PhD. in Physics at Heidelberg
@@ -66,6 +64,8 @@ MSc. in Physics at Heidelberg University (2011 – 2013)
 
 BSc. in Physics at Heidelberg University (2007 – 2011) 
 (including one Erasmus exchange semester at the University of Manchester, UK, in 2009)
+
+<br><br>
 
 # Work and research philosophy:
 
@@ -90,6 +90,8 @@ increases our confidence and the significance of the interpretations
 and decreases the risk of bias. Moreover, I enjoy to teach and
 supervise students, foster critical thinking.
 
+<br><br>
+
 # Research Cruises:
 
 2021: GEOTRACES process study cruise GApr16 *“MetalGate”* (Onshore participant for seawater Nd isotope analysis; Subpolar North Atlantic and Nordic Seas around Iceland)
@@ -97,6 +99,8 @@ supervise students, foster critical thinking.
 2018: Research cruise M151 onboard RV Meteor (CTD and multi-corer operations, sediment pore water extractions; Eastern North Atlantic and Azores Plateau)
 
 2017: Research cruise M141-2 onboard RV Meteor (CTD operations; Eastern North Atlantic and Mediterranean Sea)
+
+<br><br>
 
 # **Invited Talks**:
 
@@ -114,6 +118,8 @@ supervise students, foster critical thinking.
 
 2018: Invited Talk at Lamont-Doherty Earth Observatory (New York State, USA)
 
+<br><br>
+
 # Workshops and Conferences:
 
 2021: Convenor of Goldschmidt  international geochemistry conference session  *“Drivers of the climate system over the Cenozoic Era”*
@@ -129,9 +135,13 @@ supervise students, foster critical thinking.
 
 Also, I have repeatedly visited AGU  Fall meeting, EGU’s General Assembly, Goldschmidt international  conference on Geochemistry, International Conference on  Paleoceanography and other  conferences, and  presented my research as oral and poster contributions.
 
+<br><br>
+
 # **Outreach**:
 
 2020: Presentation and discussion about climate change for A-level students at “Akademie für Kommunikation” secondary school, Karlsruhe, Germany
+
+<br><br>
 
 # **Skills**:
 
@@ -147,6 +157,8 @@ Measurement MC-ICP-MS (experienced), ICP-QMS (experienced), HR-ICP-MS (experienc
 Data science: data base management statistical data analysis visualisation of complex data numerical model development and application
 
 Safety: training in fire protection and handling of dangerous chemicals including hydrofluoric acid
+
+<br><br>
 
 # **Review activity:**
 
@@ -172,6 +184,8 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - UK Research and Innovation (UKRI)
 
+<br><br>
+
 # Acquired funding:
 
 2022: European Commission Marie Skłodowska-Curie Global Fellowship for 3 year project on the use of trace metal geochemistry in marine sediments for the reconstruction of bottom water oxygen concentrations (~ 320 000 €)
@@ -184,7 +198,15 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 2013: DFG research grant for own 3 year PhD project on Last Glacial Maximum ocean circulation reconstruction with Nd isotopes, proposed together with Jörg Lippold and Norbert Frank (~ 150 000 €;  [Link](https://gepris.dfg.de/gepris/projekt/242773409/ergebnisse?context=projekt&task=showDetail&id=242773409&selectedSubTab=2&))
 
+<br>
+
+<br>
+
 # **Teaching:**
+
+<br>
+
+<br>
 
 ### Supervision
 
@@ -211,6 +233,10 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 
 - de Carvalho Ferreira M. L. (2013) *Water mass reconstruction by Nd isotopic analysis from mid* *Atlantic ocean sediments*. **Bachelor’s thesis**.
 
+<br>
+
+<br>
+
 ### Co-supervised student theses
 
 - Bollen M. (ongoing) *Constraining past changes in remineralized carbon sequestration in Southern Ocean subsurface ocean water masses across the last glacial cycle*. **PhD thesis**.
@@ -224,6 +250,10 @@ Safety: training in fire protection and handling of dangerous chemicals includin
 - Kullik V. (2017) *Rekonstruktion der Zirkulation im NO-Atlantik der letzten 30 ka unter dem Einfluss von Mittelmeerwasser anhand der Neodymisotopie*. **Master’s thesis**.
 
 - Hauck L. (2017) *Rekonstruktion der Zirkulation im westlichen Nordatlantik über die letzten 30 ka mittels der Neodymisotopie von Blake Bahama Outer Ridge Sedimenten*. **Master’s thesis**.
+
+<br>
+
+<br>
 
 ### Supervised experimental courses
 

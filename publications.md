@@ -33,14 +33,22 @@ subtitle:
 - Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022).
    Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment. **Quaternary Science Reviews** 279, 107404.
 
-## **2021**
+ <br>
+
+<br>
+
+## 2021
 
 - Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Schulz, H., Süfke, F., Lippold, J. (2021).
    Stable Atlantic Deep Water Mass Sourcing on Glacial-Interglacial Timescales. **Geophysical Research Letters** 48, e2021GL092722.
 
 - Jakob, K.A., Pross, J., Link, J.M., **Blaser, P.**, Hauge Braaten, A., Friedrich, O. (2021). Deep-ocean circulation in the North Atlantic during the Plio-Pleistocene intensification of Northern Hemisphere Glaciation (~2.65–2.4 Ma). ***Marine Micropaleontology*** 165, 101998.
 
-## **2020**
+<br>
+
+ <br>
+
+## 2020
 
 - Pöppelmeier, F., Scheen, J., **Blaser, P.**, Lippold, J., Gutjahr, M., Stocker, T.F. (2020). Influence of Elevated Nd Fluxes on the Northern Nd Isotope End Member of the Atlantic During the Early Holocene. ***Paleoceanography and Paleoclimatology*** 35, e2020PA003973.
 
@@ -56,6 +64,10 @@ subtitle:
 
 - *Vogt-Vincent, N., Lippold, J., Kaboth-Bahr, S., **Blaser, P.** (2020). Ice-rafted debris as a source of non-conservative behaviour for the εNd palaeotracer: insights from a simple model. ***Geo-Marine Letters*** 40,
    325–340.
+
+<br>
+
+<br>
 
 ## 2019
 
@@ -76,6 +88,10 @@ subtitle:
 - **Blaser P.**,
   Pöppelmeier F., Schulz H., Gutjahr M., Frank M., Lippold J., Heinrich H., Link J. M., Hoffmann J., Szidat S. and Frank N. (2019). The resilience and sensitivity of Northeast Atlantic deep water εNd to overprinting by detrital fluxes over the past 30,000 years. ***Geochimica et Cosmochimica Acta*** 245, 79–97.
 
+<br>
+
+<br>
+
 ## 2018
 
 - **Blaser P.** and Jacek R. (2018). Undisturbed Measurements of Oxygen in Deep Sea Sediments with Oxygen Sensitive Foil, ***Application Note***, Heidelberg. Available at:
@@ -83,9 +99,17 @@ subtitle:
 
 - Pöppelmeier F., Gutjahr M., **Blaser P**., Keigwin L. D. and Lippold J. (2018). Origin of Abyssal NW Atlantic Water Masses Since the Last Glacial Maximum. ***Paleoceanography and Paleoclimatology*** 33, 530–543.
 
+<br>
+
+<br>
+
 ## 2017
 
 - Wefing A.-M., Arps J., **Blaser P**., Wienberg C., Hebbeln D. and Frank N. (2017). High precision U-series dating of scleractinian cold-water corals using an automated chromatographic U and Th extraction. ***Chemical Geology*** 475, 140–148.
+
+<br>
+
+<br>
 
 ## 2016
 
@@ -93,6 +117,10 @@ subtitle:
 
 - **Blaser P.**, Lippold J., Gutjahr M., Frank N., Link J. M. and Frank M. (2016). Extracting foraminiferal seawater Nd isotope signatures from bulk deep sea
    sediment by chemical leaching. ***Chemical Geology*** 439, 189–204.
+
+<br>
+
+<br>
 
 ## 2015
 
