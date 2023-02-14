@@ -19,10 +19,8 @@ I will sample sediment cores from diverse biogeochemical settings within their u
 
 <figure>
    <a href="https://jekyllrb.com">
-   <img src="logo.png" style="max-width: 200px;"
+   <img src="/assets/img/OxyQuant_scheme.png" style="max-width: 200px;"
       alt="Jekyll logo" />
    </a>
    <figcaption>This is the Jekyll logo</figcaption>
 </figure>
-
-{% include image.html url="http://jekyllrb.com" max-width="200px" file="logo.png" alt="Jekyll logo" caption="This is the Jekyll logo." %}
