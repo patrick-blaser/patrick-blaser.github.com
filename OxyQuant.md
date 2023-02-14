@@ -6,7 +6,7 @@ cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
 
-![Funded by EU](/assets/img/EU_funding.jpg){:width = "50"}
+![Funded by EU](/assets/img/EU_funding.jpg){:width = "50%"}
 
 {% include image.html url = "/assets/img/EU_funding.jpg" description = "Funded by EU" %}
 
