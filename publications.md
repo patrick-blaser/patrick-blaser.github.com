@@ -38,21 +38,21 @@ subtitle:
 
 - **Stable Atlantic Deep Water Mass Sourcing on Glacial-Interglacial Timescales.**<br>Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Schulz, H., Süfke, F., Lippold, J. (2021). *Geophysical Research Letters* 48, e2021GL092722. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL092722){:target="_blank"}
 
-- Jakob, K.A., Pross, J., Link, J.M., **Blaser, P.**, Hauge Braaten, A., Friedrich, O. (2021). Deep-ocean circulation in the North Atlantic during the Plio-Pleistocene intensification of Northern Hemisphere Glaciation (~2.65–2.4 Ma). ***Marine Micropaleontology*** 165, 101998. [Link](https://www.sciencedirect.com/science/article/pii/S0377839821000396){:target="_blank"}
+- **Deep-ocean circulation in the North Atlantic during the Plio-Pleistocene intensification of Northern Hemisphere Glaciation (~2.65–2.4 Ma).**<br>Jakob, K.A., Pross, J., Link, J.M., **Blaser, P.**, Hauge Braaten, A., Friedrich, O. (2021). *Marine Micropaleontology* 165, 101998. [Link](https://www.sciencedirect.com/science/article/pii/S0377839821000396){:target="_blank"}
 
 <br>
 
 ## 2020
 
-- Pöppelmeier, F., Scheen, J., **Blaser, P.**, Lippold, J., Gutjahr, M., Stocker, T.F. (2020). Influence of Elevated Nd Fluxes on the Northern Nd Isotope End Member of the Atlantic During the Early Holocene. ***Paleoceanography and Paleoclimatology*** 35, e2020PA003973. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020PA003973){:target="_blank"}
+- **Influence of Elevated Nd Fluxes on the Northern Nd Isotope End Member of the Atlantic During the Early Holocene.** <br>Pöppelmeier, F., Scheen, J., **Blaser, P.**, Lippold, J., Gutjahr, M., Stocker, T.F. (2020). *Paleoceanography and Paleoclimatology* 35, e2020PA003973. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020PA003973){:target="_blank"}
 
-- Pöppelmeier, F., **Blaser, P.**, Gutjahr, M., Jaccard, S. L., Frank, M., Max, L., Lippold, J. (2020) Northern-Sourced Water Dominated the Atlantic Ocean during the Last Glacial Maximum. ***Geology***, *48* (8), 826–829. [Link](https://pubs.geoscienceworld.org/gsa/geology/article/48/8/826/586525/Northern-sourced-water-dominated-the-Atlantic){:target="_blank"}
+- **Northern-Sourced Water Dominated the Atlantic Ocean during the Last Glacial Maximum.**<br>Pöppelmeier, F., **Blaser, P.**, Gutjahr, M., Jaccard, S. L., Frank, M., Max, L., Lippold, J. (2020) *Geology*, *48* (8), 826–829. [Link](https://pubs.geoscienceworld.org/gsa/geology/article/48/8/826/586525/Northern-sourced-water-dominated-the-Atlantic){:target="_blank"}
 
-- **Blaser, P.**, Gutjahr, M., Pöppelmeier, F., Frank, M., Kaboth-Bahr, S., Lippold, J. (2020). Labrador Sea bottom water provenance and REE exchange during the past 35,000 years. ***Earth and Planetary Science Letters*** 542, 116299. [Link](http://www.sciencedirect.com/science/article/pii/S0012821X20302429){:target="_blank"}
+- **Labrador Sea bottom water provenance and REE exchange during the past 35,000 years.**<br>**Blaser, P.**, Gutjahr, M., Pöppelmeier, F., Frank, M., Kaboth-Bahr, S., Lippold, J. (2020). *Earth and Planetary Science Letters* 542, 116299. [Link](http://www.sciencedirect.com/science/article/pii/S0012821X20302429){:target="_blank"}
 
-- Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Oppo, D.W., Jaccard, S.L., Regelous, M., Huang, K.-F., Süfke, F., Lippold, J. (2020). Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years. ***Earth and Planetary Science Letters*** 531, 115963. [Link](http://www.sciencedirect.com/science/article/pii/S0012821X19306557){:target="_blank"}
+- **Water mass gradients of the mid-depth Southwest Atlantic during the past 25,000 years.**<br>Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Oppo, D.W., Jaccard, S.L., Regelous, M., Huang, K.-F., Süfke, F., Lippold, J. (2020). *Earth and Planetary Science Letters* 531, 115963. [Link](http://www.sciencedirect.com/science/article/pii/S0012821X19306557){:target="_blank"}
 
-- Süfke, F., Schulz, H., Scheen, J., Szidat, S., Regelous, M., **Blaser, P.**, Pöppelmeier, F., Goepfert, T.J., Stocker, T.F., Lippold, J. (2020). Inverse response of 231Pa/230Th to variations of the Atlantic meridional overturning circulation in the North Atlantic intermediate water. **Geo-Marine Letter** 40, 75–87. [Link](https://doi.org/10.1007/s00367-019-00634-7){:target="_blank"}
+- Inverse response of 231Pa/230Th to variations of the Atlantic meridional overturning circulation in the North Atlantic intermediate water.<br>Süfke, F., Schulz, H., Scheen, J., Szidat, S., Regelous, M., **Blaser, P.**, Pöppelmeier, F., Goepfert, T.J., Stocker, T.F., Lippold, J. (2020). *Geo-Marine Letters* 40, 75–87. [Link](https://doi.org/10.1007/s00367-019-00634-7){:target="_blank"}
 
 - Vogt-Vincent, N., Lippold, J., Kaboth-Bahr, S., **Blaser, P.** (2020). Ice-rafted debris as a source of non-conservative behaviour for the εNd palaeotracer: insights from a simple model. ***Geo-Marine Letters*** 40, 325–340. [Link](https://link.springer.com/article/10.1007/s00367-020-00643-x){:target="_blank"}
 
