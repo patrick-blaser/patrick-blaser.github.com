@@ -21,5 +21,5 @@ I will sample sediment cores from diverse biogeochemical settings within their u
       alt="OxyQuant scheme"
      class="img-responsive" />
   </a>
-   <figcaption><i>This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme This is the OxyQuant scheme </i></figcaption>
+   <figcaption><i>This is the OxyQuant scheme </i></figcaption>
 </figure>
