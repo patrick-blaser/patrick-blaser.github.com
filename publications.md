@@ -64,7 +64,7 @@ subtitle:
 - Süfke F., Pöppelmeier F., Goepfert T. J., Regelous M., Koutsodendris A., **Blaser
    P.**, Gutjahr M. and Lippold J. (2019). Constraints on the northwestern Atlantic deep water circulation from 231Pa/230Th during the last 30,000 years. ***Paleoceanography and Paleoclimatology*** 34, 1945–1958. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003737){:target="_blank"}
 
-- **Blaser P.**, Frank M. and van de Flierdt T. (2019). Revealing past ocean circulation with neodymium isotopes. ***Past Global Changes Magazine*** 27, 54–55. [Link](http://www.pages-igbp.org/products/latest/12922-rev-past-ocean-circ-neod-isot){:target="_blank"}
+- **Blaser P.**, Frank M. and van de Flierdt T. (2019). Revealing past ocean circulation with neodymium isotopes. ***Past Global Changes Magazine*** 27, 54–55. [Link](https://pastglobalchanges.org/sites/default/files/download/docs/magazine/2019-2/PAGESmagazine_2019%282%29_54-55.pdf){:target="_blank"}
 
 - Pöppelmeier F., **Blaser P.**, Gutjahr M., Süfke F., Thornalley D. J. R., Grützner J., Jakob K. A., Link J. M., Szidat S. and Lippold J. (2019). Influence of Ocean Circulation and Benthic Exchange on Deep Northwest Atlantic Nd Isotope Records During the Past 30,000 Years. ***Geochemistry, Geophysics, Geosystems*** 20, 4457–4469. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GC008271){:target="_blank"}
 
