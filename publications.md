@@ -30,8 +30,8 @@ subtitle:
 
 ## 2022
 
-- Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.
- Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022).  **Quaternary Science Reviews** 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
+- Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.<br>
+ Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). **Quaternary Science Reviews** 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
 
 <br>
 
@@ -47,8 +47,7 @@ subtitle:
 
 - Pöppelmeier, F., Scheen, J., **Blaser, P.**, Lippold, J., Gutjahr, M., Stocker, T.F. (2020). Influence of Elevated Nd Fluxes on the Northern Nd Isotope End Member of the Atlantic During the Early Holocene. ***Paleoceanography and Paleoclimatology*** 35, e2020PA003973. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020PA003973){:target="_blank"}
 
-- Pöppelmeier, F., **Blaser, P.**, Gutjahr, M., Jaccard, S. L., Frank, M., Max, L., Lippold, J. (2020) Northern-Sourced Water Dominated the Atlantic Ocean during
-   the Last Glacial Maximum. ***Geology***, *48* (8), 826–829. [Link](https://pubs.geoscienceworld.org/gsa/geology/article/48/8/826/586525/Northern-sourced-water-dominated-the-Atlantic){:target="_blank"}
+- Pöppelmeier, F., **Blaser, P.**, Gutjahr, M., Jaccard, S. L., Frank, M., Max, L., Lippold, J. (2020) Northern-Sourced Water Dominated the Atlantic Ocean during the Last Glacial Maximum. ***Geology***, *48* (8), 826–829. [Link](https://pubs.geoscienceworld.org/gsa/geology/article/48/8/826/586525/Northern-sourced-water-dominated-the-Atlantic){:target="_blank"}
 
 - **Blaser, P.**, Gutjahr, M., Pöppelmeier, F., Frank, M., Kaboth-Bahr, S., Lippold, J. (2020). Labrador Sea bottom water provenance and REE exchange during the past 35,000 years. ***Earth and Planetary Science Letters*** 542, 116299. [Link](http://www.sciencedirect.com/science/article/pii/S0012821X20302429){:target="_blank"}
 
@@ -62,8 +61,7 @@ subtitle:
 
 ## 2019
 
-- Süfke F., Pöppelmeier F., Goepfert T. J., Regelous M., Koutsodendris A., **Blaser
-   P.**, Gutjahr M. and Lippold J. (2019). Constraints on the northwestern Atlantic deep water circulation from 231Pa/230Th during the last 30,000 years. ***Paleoceanography and Paleoclimatology*** 34, 1945–1958. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003737){:target="_blank"}
+- Süfke F., Pöppelmeier F., Goepfert T. J., Regelous M., Koutsodendris A., **Blaser P.**, Gutjahr M. and Lippold J. (2019). Constraints on the northwestern Atlantic deep water circulation from 231Pa/230Th during the last 30,000 years. ***Paleoceanography and Paleoclimatology*** 34, 1945–1958. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003737){:target="_blank"}
 
 - **Blaser P.**, Frank M. and van de Flierdt T. (2019). Revealing past ocean circulation with neodymium isotopes. ***Past Global Changes Magazine*** 27, 54–55. [Link](https://pastglobalchanges.org/sites/default/files/download/docs/magazine/2019-2/PAGESmagazine_2019%282%29_54-55.pdf){:target="_blank"}
 
@@ -93,8 +91,7 @@ subtitle:
 
 - Lippold J., Gutjahr M., **Blaser P.**, Christner E., de Carvalho Ferreira M. L., Mulitza S., Christl M., Wombacher F., Böhm E., Antz B., Cartapanis O., Vogel H. and Jaccard S. L. (2016). Deep water provenance and dynamics of the (de)glacial Atlantic meridional overturning circulation. ***Earth and Planetary Science Letters*** 445, 68–78. [Link](http://linkinghub.elsevier.com/retrieve/pii/S0012821X16301698){:target="_blank"}
 
-- **Blaser P.**, Lippold J., Gutjahr M., Frank N., Link J. M. and Frank M. (2016). Extracting foraminiferal seawater Nd isotope signatures from bulk deep sea
-   sediment by chemical leaching. ***Chemical Geology*** 439, 189–204. [Link](http://linkinghub.elsevier.com/retrieve/pii/S0009254116303242){:target="_blank"}
+- **Blaser P.**, Lippold J., Gutjahr M., Frank N., Link J. M. and Frank M. (2016). Extracting foraminiferal seawater Nd isotope signatures from bulk deep sea sediment by chemical leaching. ***Chemical Geology*** 439, 189–204. [Link](http://linkinghub.elsevier.com/retrieve/pii/S0009254116303242){:target="_blank"}
 
 <br>
 
