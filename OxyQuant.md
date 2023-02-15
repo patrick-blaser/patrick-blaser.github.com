@@ -27,7 +27,7 @@ I will sample sediment cores from diverse biogeochemical settings within their u
 
 <figure>
   <a href="/assets/img/OxyQuant_sites_maps.png">
-   <img src="/assets/img/OxyQuant_sites_maps.png" style="height: 100%; width: 100%; float: left; margin-right: 2em;"
+   <img src="/assets/img/OxyQuant_sites_maps.png" style="height: 100%; width: 100%"
       alt="OxyQuant sites"
      class="img-responsive" />
   </a>
