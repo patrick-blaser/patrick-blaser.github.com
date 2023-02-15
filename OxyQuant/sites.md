@@ -13,15 +13,17 @@ footer-extra: OxyQuant_image_source.html
      class="img-responsive" />
   </a>
   <figcaption><i><b> OxyQuant sites:</b> <br>
-     <b>(A)</b> Bottom water oxygen (BWO) is distributed unequally in the deep oceans. Fresh oxygen is mainly supplied by deep water formation in the North Atlantic and around Antarctica, connecting the deep ocean with the ocean surface. Similarly, the flux of organic matter (total organic carbon, TOC) onto the seafloor is widely variable. <b>(B)</b> For OxyQuant I am going to use sediment cores from a variety of locations with very different combinations of local BWO concentrations and TOC fluxes. For each of these cores, the general sedimentology and geochemistry is going to be determined, and then a series of parameters is going to be analysed and their suitability as proxies for local BWO assessed. Potential sites are shown as symbols. Existing qualitative (dashed) and quantitative (solid) proxies are indicated by their calibration ranges at the bottom of panel B. </i></figcaption>
+     <b>(A)</b> Bottom water oxygen (BWO) is distributed unequally in the deep oceans. Fresh oxygen is mainly supplied by deep water formation in the North Atlantic and around Antarctica, connecting the deep ocean with the ocean surface. Similarly, the flux of organic matter (total organic carbon, TOC) onto the seafloor is widely variable. <b>(B)</b> For OxyQuant I am going to use sediment cores from a variety of locations with very different combinations of local BWO concentrations and TOC fluxes. For each of these cores, the general sedimentology and geochemistry is going to be determined, and then a series of parameters is going to be analysed and their suitability as proxies for local BWO assessed. Potential sites are shown as symbols. Existing qualitative (dashed) and quantitative (solid) proxies are indicated by their calibration ranges at the bottom of panel B. [^1] </i></figcaption>
 </figure>
 
 
 
 
-| Site | Lon (°E) | Lat (°N) | depth (km) | BWO (µmol/kg) | NPP (mgC/m²/d) |
-|:------------ |:----------- |:-------- |:------- |:------- |:------- | 
-| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 |
-| ODP 1060 | -74.5 | 30.8 | 3.5 | 280 | 273 |
-| MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 |
+| Site | Lon (°E) | Lat (°N) | depth (km) | BWO (µmol/kg) | NPP (mgC/m²/d) | thanks to |
+|:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
+| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | IODP |
+| ODP 1060 | -74.5 | 30.8 | 3.5 | 280 | 273 | IODP |
+| MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | X. Crosta |
+
+[^1]: footnote
 
