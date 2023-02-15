@@ -17,8 +17,8 @@ The suite of sediment core sites that will be used for the calibration of proxie
 </figure>
 
 
-[^1]:Garcia et al. (2018). *World Ocean Atlas 2018. Volume 3: dissolved oxygen, apparent oxygen utilization, and oxygen saturation.*
-[^2]: Behrenfeld & Falkowski (1997). *Photosynthetic rates derived from satellite-based chlorophyll concentration.* Limnology and Oceanography. [&#128214;]
+[^1]:Garcia et al. (2018). *World Ocean Atlas 2018. Volume 3: dissolved oxygen, apparent oxygen utilization, and oxygen saturation.*[&#128214;](https://www.ncei.noaa.gov/sites/default/files/2020-04/woa18_vol3.pdf){:target="_blank"}
+[^2]: Behrenfeld & Falkowski (1997). *Photosynthetic rates derived from satellite-based chlorophyll concentration.* Limnology and Oceanography. [&#128214;](http://doi.wiley.com/10.4319/lo.1997.42.1.0001){:target="_blank"}[&#128214;](http://sites.science.oregonstate.edu/ocean.productivity/index.php){:target="_blank"}
 
 <br>
 <br>
@@ -32,6 +32,13 @@ Table 1: Current OxyQuant sediment core sites.
 | MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | Xavier Crosta |
 
 {: .box-warning}
-I am currently searching for further suitable sediment cores. Please get in touch if you happen to know of any!
+I am currently searching for further suitable sediment cores. Please get in touch if you happen to know of any and want to collaborate!
+
+<br>
+<br>
+
+
+<br>
+
 
 
