@@ -5,7 +5,7 @@ subtitle:
 ---
 ## 2022
 
-- **Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.**<br>Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). *Quaternary Science Reviews* 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
+- **Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.**<br>Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). *Quaternary Science Reviews* 279, 107404. [&#128214;](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
 
 <br>
 
