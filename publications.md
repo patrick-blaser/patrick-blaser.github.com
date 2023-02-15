@@ -3,31 +3,6 @@ layout: page
 title: Publications
 subtitle: 
 ---
-
-<title></title>
-
-<style type="text/css">
- @page { size: 21cm 29.7cm; margin: 2cm }
- td p { margin-top: 0.14cm; margin-bottom: 0.14cm; color: #000000; text-align: left; background: transparent; text-decoration: none }
- td p.western { font-family: "Liberation Serif", serif; font-size: 12pt; font-style: normal; font-weight: normal }
- td p.cjk { font-size: 12pt; font-style: normal; font-weight: normal }
- td p.ctl { font-size: 12pt; font-style: normal; font-weight: normal }
- h2 { margin-top: 0.25cm; margin-bottom: 0.25cm; background: transparent; page-break-before: auto; page-break-after: avoid }
- h2.western { font-family: "Liberation Sans", sans-serif; font-size: 15pt; font-weight: bold }
- h2.cjk { font-family: "Microsoft YaHei"; font-size: 16pt; font-weight: bold }
- h2.ctl { font-family: "Lucida Sans"; font-size: 16pt; font-weight: bold }
- h1 { margin-top: 0.55cm; margin-bottom: 0.22cm; background: transparent; page-break-before: auto; page-break-after: avoid }
- h1.western { font-family: "Liberation Sans", sans-serif; font-size: 17pt; font-weight: bold }
- h1.cjk { font-family: "Microsoft YaHei"; font-size: 18pt; font-weight: bold }
- h1.ctl { font-family: "Lucida Sans"; font-size: 18pt; font-weight: bold }
- dd { margin-left: 1cm; margin-bottom: 0.25cm; line-height: 115%; background: transparent }
- p { margin-bottom: 0.25cm; line-height: 115%; background: transparent; page-break-before: auto }
- strong { font-weight: bold }
- cite { font-style: italic }
- a:visited { color: #800000; so-language: zxx; text-decoration: underline }
- a:link { color: #000080; so-language: zxx; text-decoration: underline }
- </style>
-
 ## 2022
 
 - **Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.**<br>Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). *Quaternary Science Reviews* 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
