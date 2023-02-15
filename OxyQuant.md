@@ -22,7 +22,7 @@ I will sample sediment cores from diverse biogeochemical settings within their u
      class="img-responsive" />
   </a>
   <figcaption><i><b> OxyQuant sampling strategy: </b> <br>
-     <b>(A)</b> Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+     <b>(A)</b> Oxygen is replenished at the sea surface, distributed via ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimetres, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
 </figure>
 
 <figure>
@@ -31,6 +31,6 @@ I will sample sediment cores from diverse biogeochemical settings within their u
       alt="OxyQuant sites"
      class="img-responsive" />
   </a>
-  <figcaption><i><b> OxyQuant sampling strategy:</b> <br>
-     <b>(A)</b> Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+  <figcaption><i><b> OxyQuant sites:</b> <br>
+     <b>(A)</b> Bottom water oxygen (BWO) is distributed unequally in the deep oceans. Fresh oxygen is mainly supplied by deep water formation in the North Atlantic and around Antarctica, connecting the deep ocean with the ocean surface. Similarly, the flux of organic matter (total organic carbon, TOC) onto the seafloor is widely variable. <b>(B)</b> For OxyQuant I am going to use sediment cores from a variety of locations with very different combinations of local BWO concentrations and TOC fluxes. For each of these cores, the general sedimentology and geochemsitry is going to be determined, and then a series of parameters is going to be analysed and their suitability as proxies for local BWO assessed. Existing qualitative (dashed) and quantitative (solid) proxies are indicated by their calibration ranges at the bottom of panel B </i></figcaption>
 </figure>
