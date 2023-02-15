@@ -19,9 +19,9 @@ footer-extra: OxyQuant_image_source.html
 
 
 
-| Site | Lon (°E) | Lat (°N) | BWO (µmol/kg) | NPP (mgC/m²/d) |
-|:------------ |:----------- |:-------- |:------- |:------- | 
-| Five | Six | Four |
-| Ten    | Eleven      | Nine            |
-| Seven  | Eight       | Six             |
+| Site | Lon (°E) | Lat (°N) | depth (km) | BWO (µmol/kg) | NPP (mgC/m²/d) |
+|:------------ |:----------- |:-------- |:------- |:------- |:------- | 
+| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 |
+| ODP 1060 | -74.5 | 30.8 | 3.5 | 280 | 273 |
+| MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 |
 
