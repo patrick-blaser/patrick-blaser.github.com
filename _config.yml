@@ -23,7 +23,10 @@ navbar-links:
   Research: "research"
   CV: "CV"
   Publications: "publications"
-  OxyQuant: "OxyQuant"
+  OxyQuant: "OxyQuant":
+   - Overview: "OxyQuant/overview"
+   - Sites: "OxyQuant/sites"
+
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
