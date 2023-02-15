@@ -21,5 +21,6 @@ I will sample sediment cores from diverse biogeochemical settings within their u
       alt="OxyQuant scheme"
      class="img-responsive" />
   </a>
-   <figcaption><i>This is the OxyQuant scheme </i></figcaption>
+   <figcaption><i> OxyQuant sampling strategy: <br>
+     (A) Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. (B) Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. (C) The sampling strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow  </i></figcaption>
 </figure>
