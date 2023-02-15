@@ -30,14 +30,13 @@ subtitle:
 
 ## 2022
 
-- Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.<br>
- Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). **Quaternary Science Reviews** 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
+- **Neodymium isotopes as a paleo-water mass tracer: A model-data reassessment.**<br>Pöppelmeier, F., Lippold, J., **Blaser, P.**, Gutjahr, M., Frank, M., Stocker, T.F. (2022). *Quaternary Science Reviews* 279, 107404. [Link](https://www.sciencedirect.com/science/article/pii/S027737912200035X){:target="_blank"}
 
 <br>
 
 ## 2021
 
-- Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Schulz, H., Süfke, F., Lippold, J. (2021). Stable Atlantic Deep Water Mass Sourcing on Glacial-Interglacial Timescales. **Geophysical Research Letters** 48, e2021GL092722. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL092722){:target="_blank"}
+- **Stable Atlantic Deep Water Mass Sourcing on Glacial-Interglacial Timescales.**<br>Pöppelmeier, F., Gutjahr, M., **Blaser, P.**, Schulz, H., Süfke, F., Lippold, J. (2021). *Geophysical Research Letters* 48, e2021GL092722. [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL092722){:target="_blank"}
 
 - Jakob, K.A., Pross, J., Link, J.M., **Blaser, P.**, Hauge Braaten, A., Friedrich, O. (2021). Deep-ocean circulation in the North Atlantic during the Plio-Pleistocene intensification of Northern Hemisphere Glaciation (~2.65–2.4 Ma). ***Marine Micropaleontology*** 165, 101998. [Link](https://www.sciencedirect.com/science/article/pii/S0377839821000396){:target="_blank"}
 
