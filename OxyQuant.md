@@ -18,9 +18,19 @@ I will sample sediment cores from diverse biogeochemical settings within their u
 <figure>
   <a href="/assets/img/OxyQuant_scheme.png">
    <img src="/assets/img/OxyQuant_scheme.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
-      alt="OxyQuant scheme"
+      alt="OxyQuant sampling strategy"
      class="img-responsive" />
   </a>
-   <figcaption><i> OxyQuant sampling strategy: <br>
-     (A) Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. (B) Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. (C) The sampling strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow  </i></figcaption>
+  <figcaption><i><b> OxyQuant sampling strategy: </b> <br>
+     <b>(A)</b> Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+</figure>
+
+<figure>
+  <a href="/assets/img/OxyQuant_sites_maps.png">
+   <img src="/assets/img/OxyQuant_sites_maps.png" style="height: 100%; width: 100%; float: left; margin-right: 2em;"
+      alt="OxyQuant sites"
+     class="img-responsive" />
+  </a>
+  <figcaption><i><b> OxyQuant sampling strategy:</b> <br>
+     <b>(A)</b> Oxygen is replenished at the sea surface, distributed bia ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimeters, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
 </figure>
