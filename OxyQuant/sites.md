@@ -5,7 +5,7 @@ subtitle: sediment cores used for the OxyQuant calibrations
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
-The suite of sediment core sites that will be used for the calibration of proxies for past Bottom Water Oxygen (BWO) is planned to contain 25 different sites.
+The suite of sediment core sites that will be used for the calibration of proxies for past Bottom Water Oxygen (BWO) is planned to contain 25 different sites. These sites should cover a wide range of environmental parameters, in particular in local BWO concentrations and biological productivity at the sea surface, which leads to a carbon flux into the underlying sediments and affects pore water oxygen.
 <figure>
   <a href="/assets/img/OxyQuant_sites_maps.png">
    <img src="/assets/img/OxyQuant_sites_maps.png" style="height: 100%; width: 100%; float: left; margin-right: 2em;"
@@ -27,8 +27,10 @@ The suite of sediment core sites that will be used for the calibration of proxie
 
 <br>
 <br>
-[^1]: Garcia et al. (2018). *World Ocean Atlas 2018. Volume 3: dissolved oxygen, apparent oxygen utilization, and oxygen saturation.* [&#128214;](https://www.ncei.noaa.gov/sites/default/files/2020-04/woa18_vol3.pdf){:target="_blank"}
+[^1]: Garcia et al. (2018). *World Ocean Atlas 2018. Volume 3: dissolved oxygen, apparent oxygen utilization, and oxygen saturation.*
+[&#128214;](https://www.ncei.noaa.gov/sites/default/files/2020-04/woa18_vol3.pdf){:target="_blank"}
 <br>
-[^2]: Hayes et al. (2021). *Global Ocean Sediment Composition and Burial Flux in the Deep Sea.* [&#128214;](https://onlinelibrary.wiley.com/doi/abs/10.1029/2020GB006769){:target="_blank"}
+[^2]: Behrenfeld & Falkowski (1997). *Photosynthetic rates derived from satellite-based chlorophyll concentration.* Limnology and Oceanography 
+[&#128214;](http://doi.wiley.com/10.4319/lo.1997.42.1.0001){:target="_blank"}[&#128214;](http://sites.science.oregonstate.edu/ocean.productivity/index.php){:target="_blank"}
 
 
