@@ -104,4 +104,4 @@ subtitle:
 
 ## 2015
 
-- Böhm E., Lippold J., Gutjahr M., Frank M., **Blaser P.**, Antz B., Fohlmeister J., Frank N., Andersen M. B. and Deininger M. (2015). Strong and deep Atlantic meridional overturning circulation during the last glacial cycle. ***Nature*** 517, 73–76.
+- Böhm E., Lippold J., Gutjahr M., Frank M., **Blaser P.**, Antz B., Fohlmeister J., Frank N., Andersen M. B. and Deininger M. (2015). Strong and deep Atlantic meridional overturning circulation during the last glacial cycle. ***Nature*** 517, 73–76. [Link](http://www.nature.com/doifinder/10.1038/nature14059)
