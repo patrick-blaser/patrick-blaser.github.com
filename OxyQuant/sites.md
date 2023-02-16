@@ -30,7 +30,7 @@ Current OxyQuant sediment core sites:
 | MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | Xavier Crosta |
 
 {: .box-warning}
-I am currently searching for **further suitable sediment cores**. Please get in touch if you happen to know of any and want to collaborate!
+I am currently searching for **further suitable sediment cores**. Please get in touch if you happen to know of any and want to collaborate! Click [**here**](/OxyQuant/site_specs.md) for more details about suitable sediment cores.
 
 
 <figure>
