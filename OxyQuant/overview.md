@@ -16,7 +16,7 @@ I will sample sediment cores from diverse biogeochemical settings within their u
 
 <figure>
   <a href="/assets/img/Scheme_ocean.png">
-   <img src="/assets/img/Scheme_ocean.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
+   <img src="/assets/img/Scheme_ocean.png" style="height: 80%; width: 80%; float: none; margin-right: 2em;"
       alt="Oxygen in the oceans"
      class="img-responsive" />
   </a>
