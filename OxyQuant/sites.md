@@ -31,6 +31,8 @@ Table 1: Current OxyQuant sediment core sites.
 
 {: .box-warning}
 I am currently searching for further suitable sediment cores. Please get in touch if you happen to know of any and want to collaborate!
+<br>
+<br>
 
 
 
