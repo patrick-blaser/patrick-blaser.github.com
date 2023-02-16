@@ -5,7 +5,8 @@ subtitle: sediment cores used for the OxyQuant calibrations
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
-The suite of sediment core sites that will be used for the calibration of proxies for past Bottom Water Oxygen (BWO) is planned to contain 25 different sites. These sites should cover a wide range of environmental parameters, in particular in local BWO concentrations and biological productivity at the sea surface, which leads to a carbon flux into the underlying sediments and affects pore water oxygen.
+A suite of sediment core sites will be used for the calibration of proxies for past Bottom Water Oxygen (BWO). It is planned to comprise 25 different sites. These sites should cover a wide range of environmental parameters, in particular in local BWO concentrations and overlying biological productivity, which leads to a carbon flux into the sediments and affects pore water oxygen.
+
 <figure>
   <a href="/assets/img/OxyQuant_sites_maps.png">
    <img src="/assets/img/OxyQuant_sites_maps.png" style="height: 100%; width: 100%; float: left; margin-right: 2em;"
@@ -34,6 +35,15 @@ I am currently searching for further suitable sediment cores. Please get in touc
 <br>
 <br>
 
+<figure>
+  <a href="/assets/img/OxyQuant_scheme.png">
+   <img src="/assets/img/OxyQuant_scheme.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
+      alt="Oxygen in the oceans"
+     class="img-responsive" />
+  </a>
+  <figcaption><i><b> OxyQuant sampling strategy: </b> <br>
+     <b>(A)</b> Oxygen is replenished at the sea surface, distributed via ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimetres, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+</figure>
 
 
 

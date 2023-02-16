@@ -15,11 +15,11 @@ Within the OxyQuant project I aim to develop a geochemical toolkit with which we
 I will sample sediment cores from diverse biogeochemical settings within their upper sections. Ideally, these sections will be as young as possible, but should definitely be of Holocene age. Furthermore, the redox front (the sediment depth where pore water oxygen is consumed) lies within the sampling interval, so that samples above and below the redox front can be used.
 
 <figure>
-  <a href="/assets/img/OxyQuant_scheme.png">
-   <img src="/assets/img/OxyQuant_scheme.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
-      alt="OxyQuant sampling strategy"
+  <a href="/assets/img/Scheme_ocean.png">
+   <img src="/assets/img/Scheme_ocean.png" style="height: 50%; width: 50%; float: left; margin-right: 2em;"
+      alt="Oxygen in the oceans"
      class="img-responsive" />
   </a>
-  <figcaption><i><b> OxyQuant sampling strategy: </b> <br>
-     <b>(A)</b> Oxygen is replenished at the sea surface, distributed via ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimetres, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+  <figcaption><i><b> Oxygen in the oceans: </b> <br>
+     Oxygen enters the ocean at the sea surface and is important for all aerobic life in the oceans. It is supplied to the deep ocean by deep water formation and distributed with ocean currents. Microbes that live from organic matter falling from the surface ocean (marine snow) also consume oxygen. The availability of oxygen in seawater away from the surface thus depends on supply from  advection and consumption from biological respiration. </i></figcaption>
 </figure>
