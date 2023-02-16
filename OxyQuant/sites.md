@@ -46,7 +46,7 @@ I am currently searching for **further suitable sediment cores**. Please get in 
 </figure>
 
 {: .box-warning}
-I am also interested in further collaborations in order to investigate **further proxies** with the same sediments. If you are interested, please get in touch so that we can increase the number of proxies investigated and foster quantitative reconstructions of oceanic parameters in the past! The sites are particularly suited for oxygen and productivity proxies, but other proxies can definitely also benefit from the wide range of different well investigated sites used for OxyQuant.
+I am also interested in collaborations in order to investigate **further proxies** with the same sediments. If you are interested, please get in touch so that we can increase the number of proxies investigated and foster quantitative reconstructions of oceanic parameters in the past! The sites are particularly suited for oxygen and productivity proxies, but other proxies can definitely also benefit from the wide range of different well investigated sites used for OxyQuant.
 
 <br>
 <br>
