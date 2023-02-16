@@ -21,5 +21,5 @@ I will sample sediment cores from diverse biogeochemical settings within their u
      class="img-responsive" />
   </a>
   <figcaption><i><b> Oxygen in the oceans: </b> <br>
-     Oxygen enters the ocean at the sea surface and is important for all aerobic life in the oceans. It is supplied to the deep ocean by deep water formation and distributed with ocean currents. Microbes that live from organic matter falling from the surface ocean (marine snow) also consume oxygen. The availability of oxygen in seawater away from the surface thus depends on supply from  advection and consumption from biological respiration. </i></figcaption>
+     Oxygen enters the ocean at the sea surface and is important for all aerobic life in the oceans. It is supplied to the deep ocean by deep water formation and distributed with ocean currents. Microbes that live from organic matter falling from the surface ocean (marine snow) also consume oxygen. The availability of oxygen in seawater away from the surface thus depends on supply from physical advection and consumption from biological respiration. </i></figcaption>
 </figure>

@@ -14,7 +14,7 @@ A suite of sediment core sites will be used for the calibration of proxies for p
      class="img-responsive" />
   </a>
   <figcaption><i><b> OxyQuant sites:</b> <br>
-     <b>(A)</b> Bottom water oxygen<b markdown="1">[^1]</b> is distributed unequally in the deep oceans. Fresh oxygen is mainly supplied by deep water formation in the North Atlantic and around Antarctica, connecting the deep ocean with the ocean surface. Similarly, the net primary productivity (NPP<b markdown="1">[^2]</b>) at the sea surface is widely variable. <b>(B)</b> Sediment core sites currently available for OxyQuant (big symbols). I am going to use sediment cores from a variety of locations with very different combinations of local BWO concentrations and overlying primary productivity. For each of these cores, the general sedimentology and geochemistry is going to be determined, a series of parameters is going to be analysed and their suitability as proxies for local BWO assessed. Published sediment cores with thick Holocene sections are shown as small grey circles. Existing qualitative (dashed) and quantitative (solid) proxies are indicated by their calibration ranges at the bottom of panel B. </i></figcaption>
+     <b>(A)</b> Bottom water oxygen<b markdown="1">[^1]</b> is distributed unequally in the deep oceans. Fresh oxygen is mainly supplied by deep water formation in the North Atlantic and around Antarctica, connecting the deep ocean with the ocean surface. Similarly, the net primary productivity (NPP<b markdown="1">[^2]</b>) at the sea surface is widely variable. <b>(B)</b> Sediment core sites currently available for OxyQuant (big symbols). I am going to use sediment cores from a variety of locations with very different combinations of local BWO concentrations and overlying primary productivity. For each of these cores, the general sedimentology and geochemistry will be determined, a series of parameters analysed and their suitability as proxies for local BWO assessed. Published sediment cores with thick Holocene sections are shown as small grey circles. Existing qualitative (dashed) and quantitative (solid) proxies are indicated by their calibration ranges at the bottom of panel B. </i></figcaption>
 </figure>
 
 [^1]:Garcia et al. (2018). *World Ocean Atlas 2018. Volume 3: dissolved oxygen, apparent oxygen utilization, and oxygen saturation.*[&#128214;](https://www.ncei.noaa.gov/sites/default/files/2020-04/woa18_vol3.pdf){:target="_blank"}
@@ -31,9 +31,8 @@ Table 1: Current OxyQuant sediment core sites.
 | MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | Xavier Crosta |
 
 {: .box-warning}
-I am currently searching for further suitable sediment cores. Please get in touch if you happen to know of any and want to collaborate!
-<br>
-<br>
+I am currently searching for **further suitable sediment cores**. Please get in touch if you happen to know of any and want to collaborate!
+
 
 <figure>
   <a href="/assets/img/OxyQuant_scheme.png">
@@ -42,8 +41,12 @@ I am currently searching for further suitable sediment cores. Please get in touc
      class="img-responsive" />
   </a>
   <figcaption><i><b> OxyQuant sampling strategy: </b> <br>
-     <b>(A)</b> Oxygen is replenished at the sea surface, distributed via ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes consumes oxygen in the sediment pore waters within the upper layers, typically within the first centimetres, or up to one meter sediment depth. <b>(C)</b> The strategy is to sample sediment cores across the redox front, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
+     <b>(A)</b> Oxygen is replenished at the sea surface, distributed via ocean currents, and depleted by organisms consuming organic matter. <b>(B)</b> Metabolic activity of microbes completely consumes oxygen in the sediment pore waters within the upper layers, typically within the first few centimetres, or up to one meter sediment depth. Within these layers, redox gradients promote chemical reactions, which can mobilise redox sensitive metals such as manganese (Mn) or uranium (U). At the same time, geochemical signals are formed which can be archived deeper in the sea floor under ongoing sedimentation. <b>(C)</b> The strategy is to sample sediment cores across the redox front of zero dissolved oxygen, but within the Holocene layer, so that proxy data can be compared to modern oceanographic conditions. Therefore, sites with a shallow redox layer or a thick Holocene layer are necessary. </i></figcaption>
 </figure>
 
+{: .box-warning}
+I am also interested in further collaborations in order to investigate **further proxies** with the same sediments. If you are interested, please get in touch so that we can increase the number of proxies investigated and foster quantitative reconstructions of oceanic parameters in the past! The sites are particularly suited for oxygen and productivity proxies, but other proxies can definitely also benefit from the wide range of different well investigated sites used for OxyQuant.
 
+<br>
+<br>
 
