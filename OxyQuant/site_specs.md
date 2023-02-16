@@ -15,4 +15,5 @@ Relevant parameters for OxyQuant calibration sediment cores:
 | ancillary measurements? | Further existing or planned sediment analyses are **desirable**, but not essential. A sediment core **description is essential**, and a cruise report desirable. |
 | specific BWO or productivity range? | At the moment I require sediment cores from **all ranges** of BWO and biological productivity, but particularly in the low BWO range. |
 | other parameters? | At the moment I have **no constraints** on further sediment parameters such as sedimentology or sedimentation rates. However, a presence of *foraminifera* tests (both planktic and benthic) and *fish debris* is desirable. |
+| sample size? | For the planned detailed investigations it is important that a certain amount of sediment is available from each site. Ideally, I would have one sample every 2-5 cm (maximum **10 - 15 samples**) per core. Each sample should ideally contain **10-20 cm³** of sediment, but 1-2 cm³ may already be enough for the more sample efficient investigations. |
 
