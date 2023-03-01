@@ -9,6 +9,7 @@ Relevant parameters for OxyQuant calibration sediment cores:
 
 | Parameter | Importance |
 |:--------|:-----------------|
+| environmental setting | The sediment cores should be located in a ***pelagic*** environment, meaning open and deep marine conditions as far as possible. Settings on continental margins are acceptable as long as they are not located in restricted environments surrounded by continents. Water depths should be below at least 500 m, better even below 1000 meters. |
 | pore water data available? | Pore water analyses such as dissolved O<sub>2</sub> are **very helpful**, but not required. |
 | redox front known? | Knowledge about the depth of the redox front (zero O<sub>2</sub>) is currently **not essential**. However, if it is not known it must at least be *likely* that the redox front lies within the Holocene sediment layer. If the depth of the redox front is not yet established I will try to determine it with the help of the abundance of redox sensitive metals. |
 | redox front in Holocene layer? | If the depth of the redox front is known it **must** be well within the Holocene layer. If it is not known, then it must at least be *likely* within the Holocene layer. |
