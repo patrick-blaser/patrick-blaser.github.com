@@ -26,7 +26,9 @@ Current OxyQuant sediment core sites:
 | Site | Lon (°E) | Lat (°N) | water depth (km) | BWO (µmol/kg) | NPP (mgC/m²/d) | thanks to |
 |:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
 | IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | IODP[^3] |
-| ODP 1060 | -74.5 | 30.8 | 3.5 | 280 | 273 | IODP |
+| IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | IODP[^3] |
+| IODP U1391 | -9.41 | 37.4 | 1.1 | 188 | 858 | IODP[^3] |
+| IODP U1479 | 17.4 | -35.1 | 2.6 | 234 | 815 | IODP[^3] |
 | MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | [Xavier Crosta](https://www.epoc.u-bordeaux.fr/indiv/XCrosta/){:target="_blank"} |
 
 [^3]: [International Ocean Discovery Program](https://www.iodp.org/){:target="_blank"}
