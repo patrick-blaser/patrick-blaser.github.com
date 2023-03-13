@@ -25,13 +25,12 @@ Current OxyQuant sediment core sites:
 
 | Site | Lon (°E) | Lat (°N) | water depth (km) | BWO (µmol/kg) | NPP (mgC/m²/d) | thanks to |
 |:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
-| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | IODP[^3] |
-| IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | IODP[^3] |
-| IODP U1391 | -9.41 | 37.4 | 1.1 | 188 | 858 | IODP[^3] |
-| IODP U1479 | 17.4 | -35.1 | 2.6 | 234 | 815 | IODP[^3] |
+| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| IODP U1479 | 17.4 | -35.1 | 2.6 | 234 | 815 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | [Xavier Crosta](https://www.epoc.u-bordeaux.fr/indiv/XCrosta/){:target="_blank"} |
+| IODP U1391 | -9.41 | 37.4 | 1.1 | 188 | 858 | [IODP](https://www.iodp.org/){:target="_blank"} |
 
-[^3]: [International Ocean Discovery Program](https://www.iodp.org/){:target="_blank"}
 
 {: .box-warning}
 I am currently searching for **further suitable sediment cores**. Please get in touch if you happen to know of any and want to collaborate! Click [**here**](/OxyQuant/site_specs) for more details about suitable sediment cores.
