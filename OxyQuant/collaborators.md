@@ -24,3 +24,11 @@ OxyQuant relies on the collaboration of several international scientists, includ
   <figcaption><i> [<b>Prof. Martin Frank</b>](https://www.geomar.de/en/mfrank){:target="_blank"} is head of the research group of Chemical Paleoceanography at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. He is an expert in the reconstruction of paleoceanographic environments with the help of trace metals and radiogenic and cosmogenic isotopes. He is also supervisor for OxyQuant and will be host during the return phase in the third project year. </i></figcaption>
 </figure>
 
+<figure>
+   <img src="/assets/img/Portrait_FlorianScholz.jpg" style="height: 200px; width: 200px; float: left; margin-right: 2em;"
+      alt="Dr. Florian Scholz"
+     class="img-responsive" />
+  </a>
+  <figcaption><i> [<b>Dr. Florian Scholz</b>](https://www.geomar.de/en/fscholz){:target="_blank"} is head of the Emmy Noether-Research Group ICONOX at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
+</figure>
+
