@@ -13,7 +13,7 @@ OxyQuant relies on the collaboration of several international scientists, includ
       alt="Prof. Samuel Jaccard"
      class="img-responsive" />
   </a>
-  <figcaption><i><b> Prof. Samuel Jaccard</b> is head of the research group of Biogeochemical Oceanography Across Time at the University of Lausanne, Switzerland. He is an expert in the cycling of nutrients and oxygen in marine environments and their relation to climate today and in the past, which he investigates with various sedimentological and geochemical approaches. He is supervisor for OxyQuant and host during the outgoing phase in the first two project years. </i></figcaption>
+  <figcaption><i>[<b>Prof. Samuel Jaccard</b>](https://wp.unil.ch/boat/our-team/){:target="_blank"} is head of the research group of Biogeochemical Oceanography Across Time at the University of Lausanne, Switzerland. He is an expert in the cycling of nutrients and oxygen in marine environments and their relation to climate today and in the past, which he investigates with various sedimentological and geochemical approaches. He is supervisor for OxyQuant and host during the outgoing phase in the first two project years. </i></figcaption>
 </figure>
 
 <figure>
