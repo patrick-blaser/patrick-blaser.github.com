@@ -5,7 +5,7 @@ subtitle: geochemical methods employed for paleoceanographic reconstructions
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
-Within the OxyQuant project, several geochemical systems will be investigated for their potential use as paleoceanographic proxies:
+Within the OxyQuant project, several geochemical systems will be investigated for their potential use as paleoceanographic proxies for past bottom water oxygen content:
 
 | Proxy | Method |
 |:-------:|:-----------------|
