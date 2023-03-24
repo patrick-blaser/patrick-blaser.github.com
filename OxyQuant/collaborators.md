@@ -26,8 +26,8 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
 
 <figure>
    <img src="/assets/img/Portrait_FlorianScholz.jpg" style="width: 150px; float: left; margin-right: 2em;"
-      alt="Dr. Florian Scholz"
+      alt="PD Dr. Florian Scholz"
      class="img-responsive" />
-  <figcaption><i><a href = "https://www.geomar.de/en/fscholz" target="_blank" ><b>Dr. Florian Scholz</b></a> is head of the Emmy Noether-Research Group ICONOX at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
+  <figcaption><i><a href = "https://www.geomar.de/en/fscholz" target="_blank" ><b>PD Dr. Florian Scholz</b></a> is head of the Emmy Noether-Research Group ICONOX at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
 </figure>
 
