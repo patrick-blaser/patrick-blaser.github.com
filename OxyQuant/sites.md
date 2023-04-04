@@ -23,7 +23,7 @@ A suite of sediment core sites will be used for the calibration of proxies for p
 
 Current OxyQuant sediment core sites:
 
-| Site | Lon (°E) | Lat (°N) | water depth (km) | BWO (µmol /kg) | NPP (mgC /m²/d) | thanks to |
+| Site | Lon (°E) | Lat (°N) | water depth (km) | BWO (µmol /kg) | NPP <br> (mgC /m²/d) | thanks to |
 |:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
 | IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | MSM96-22 | -14.7 | 48.1 | 4.8 | 247 | 649 | [F. Scholz](/OxyQuant/collaborators) |
