@@ -5,7 +5,7 @@ subtitle: How to judge if a sediment core is suitable for the OxyQuant calibrati
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
 ---
-Relevant parameters for OxyQuant calibration sediment cores:
+## Relevant parameters for OxyQuant calibration sediment cores:
 
 | Parameter | Importance |
 |:-------------:|:----------------|
