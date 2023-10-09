@@ -7,5 +7,5 @@ footer-extra:
 ### Heidelberg Graduate School for Physics 
 (October 2023)
 
-- [**Day 1**](/assets/files/Graddays_HD_Paleoclimate_Blaser_Monday.pdf)
+- [Day 1](/assets/files/Graddays_HD_Paleoclimate_Blaser_Monday.pdf)
 
