@@ -9,3 +9,5 @@ footer-extra:
 
 - [Day 1](/assets/files/Graddays_HD_Paleoclimate_Blaser_Monday.pdf)
 
+- [Day 2](/assets/files/Graddays_HD_Paleoclimate_Blaser_Tuesday.pdf)
+
