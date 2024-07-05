@@ -31,3 +31,4 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
   <figcaption><i><a href = "https://www.geomar.de/en/fscholz" target="_blank" ><b>Prof. Florian Scholz</b></a> is head of the research group for biogeochemistry at the Universität Hamburg , Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
 </figure>
 
+
