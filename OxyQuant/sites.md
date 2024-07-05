@@ -25,15 +25,31 @@ Current OxyQuant sediment core sites:
 
 | Site | Lon <br> (°E) | Lat <br> (°N) | water <br> depth <br> (km) | BWO <br>(µmol/kg) | NPP <br> (mgC/m²/d) | thanks to |
 |:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
-| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
-| MSM96-22 | -14.7 | 48.1 | 4.8 | 247 | 649 | [F. Scholz](/OxyQuant/collaborators) |
-| MSM96-11 | -14.8 | 47.9 | 4.8 | 247 | 661 | [F. Scholz](/OxyQuant/collaborators) |
+| 64PE449-7 | 13.4 | -25.1 | 1 | 166 | 1700 | [T. Sweere](/OxyQuant/collaborators) |
+| 64PE449-2 | 13.1 | -24.1 | 0.8 | 141 | 1835 | [T. Sweere](/OxyQuant/collaborators) |
+| 64PE449-1 | 12.9 | -24.1 | 1.5 | 199 | 1691 | [T. Sweere](/OxyQuant/collaborators) |
+| 64PE449-9 | 13.2 | -24 | 0.4 | 87 | 1967 | [T. Sweere](/OxyQuant/collaborators) |
+| 64PE449-8 | 13.4 | -23.9 | 0.3 | 71 | 2215 | [T. Sweere](/OxyQuant/collaborators) |
+| KNR197-3-23GGC | -53.9 | 7.6 | 0.4 | 131 | 714 | [WHOI](https://www2.whoi.edu/site/seafloorsampleslab/){:target="_blank"} |
+| KNR197-3-46GGC | -53.7 | 7.8 | 0.9 | 156 | 697 | [WHOI](https://www2.whoi.edu/site/seafloorsampleslab/){:target="_blank"} |
+| KNR197-60GGC | -53.6 | 7.9 | 1.1 | 182 | 692 | [WHOI](https://www2.whoi.edu/site/seafloorsampleslab/){:target="_blank"} |
+| KNR197-3-9GGC | -53.2 | 8.2 | 1.3 | 212 | 701 | [WHOI](https://www2.whoi.edu/site/seafloorsampleslab/){:target="_blank"} |
+| KNR197-3-53GGC | -53 | 8.4 | 2.6 | 268 | 639 | [WHOI](https://www2.whoi.edu/site/seafloorsampleslab/){:target="_blank"} |
+| M60/A-B 16030-1 | -18.1 | 21.2 | 1.5 | 194 | 3938 | [GEOMAR](https://www.geomar.de/en/centre/central-facilities/tlz/core-rock-repository){:target="_blank"} |
+| M25 12379-3 | -17.8 | 23.1 | 2.1 | 226 | 1462 | [GEOMAR](https://www.geomar.de/en/centre/central-facilities/tlz/core-rock-repository){:target="_blank"} |
+| M60/A-B 16006-1 | -11.5 | 29.2 | 0.8 | 156 | 686 | [GEOMAR](https://www.geomar.de/en/centre/central-facilities/tlz/core-rock-repository){:target="_blank"} |
+| IODP U1391 | -9.4 | 37.4 | 1.1 | 188 | 859 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | [IODP](https://www.iodp.org/){:target="_blank"} |
-| IODP U1391 | -9.41 | 37.4 | 1.1 | 188 | 858 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| MSM96-11 | -14.8 | 47.9 | 4.8 | 247 | 661 | [F. Scholz](/OxyQuant/collaborators) |
+| MSM96-22 | -14.7 | 48.1 | 4.8 | 247 | 649 | [F. Scholz](/OxyQuant/collaborators) |
+| PCM00-3C | -110.1 | 24.7 | 0.7 | 8 | 893 | J. Herguera |
+| BAP96-9-T | -113.4 | 25.3 | 1.3 | 35 | 687 | J. Herguera |
+| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| IODP U1314 | -27.9 | 56.4 | 2.8 | 279 | 474 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| ODP 642 | 2.9 | 67.2 | 1.3 | 307 | 632 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| M136-409 | -76.7 | -14 | 0.9 | 41 | 3894 | [F. Scholz](/OxyQuant/collaborators) |
+| M136-242 | -76.6 | -14 | 0.3 | 8 | 4314 | [F. Scholz](/OxyQuant/collaborators) |
 | M136-338 | -76.5 | -13.9 | 0.2 | 16 | 4567 | [F. Scholz](/OxyQuant/collaborators) |
-| M136-242 | -76.6 | -14.0 | 0.3 | 8 | 4314 | [F. Scholz](/OxyQuant/collaborators) |
-| M136-409 | -76.7 | -14.0 | 0.9 | 42 | 3894 | [F. Scholz](/OxyQuant/collaborators) |
-| MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | [X. Crosta](https://www.epoc.u-bordeaux.fr/indiv/XCrosta/){:target="_blank"} |
 
 
 {: .box-warning}

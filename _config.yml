@@ -23,7 +23,7 @@ navbar-links:
   Research: "research"
   CV: "CV"
   Publications: "publications"
-  # Teaching: "Teaching"
+  #Teaching: "Teaching"
   OxyQuant:
    - Overview: "OxyQuant/overview"
    - Sites: "OxyQuant/sites"
