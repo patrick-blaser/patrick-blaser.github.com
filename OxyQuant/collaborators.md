@@ -8,7 +8,7 @@ footer-extra: OxyQuant_image_source.html
 
 OxyQuant relies on the collaboration of an international team of scientists, including the following:
 
-<div display="block">
+<div>
 
 <figure>
    <img src="/assets/img/Portrait_SamuelJaccard.jpeg" style="width: 150px; float: left; margin-right: 2em;"
@@ -34,7 +34,7 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
 </figure>
 
 
-<figure>
+<figure display="block">
    <img src="/assets/img/Portrait_TimSweere.jpg" style="width: 150px; float: left; margin-right: 2em;"
       alt="Dr. Tim Sweere"
      class="img-responsive" />
