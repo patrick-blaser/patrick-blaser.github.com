@@ -4,14 +4,11 @@ title: OxyQuant Collaborators
 subtitle: people involved in OxyQuant 
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
-div {
-  display: block;
-}
 ---
 
 OxyQuant relies on the collaboration of an international team of scientists, including the following:
 
-<div>
+<div display="block">
 
 <figure>
    <img src="/assets/img/Portrait_SamuelJaccard.jpeg" style="width: 150px; float: left; margin-right: 2em;"
