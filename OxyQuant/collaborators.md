@@ -26,9 +26,17 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
 
 <figure>
    <img src="/assets/img/Portrait_FlorianScholz.jpg" style="width: 150px; float: left; margin-right: 2em;"
-      alt="PD Dr. Florian Scholz"
+      alt="Prof. Florian Scholz"
      class="img-responsive" />
-  <figcaption><i><a href = "https://www.geomar.de/en/fscholz" target="_blank" ><b>Prof. Florian Scholz</b></a> is head of the research group for biogeochemistry at the Universität Hamburg , Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
+  <figcaption><i><a href = "https://www.geo.uni-hamburg.de/geologie/personen/scholz-florian.html" target="_blank" ><b>Prof. Florian Scholz</b></a> is head of the research group for biogeochemistry at the Universität Hamburg , Germany. His research focuses on water-sediment interactions in marine depositional environments and their role in global biogeochemical cycles. </i></figcaption>
+</figure>
+
+
+<figure>
+   <img src="/assets/img/Portrait_TimSweere.jpg" style="width: 150px; float: left; margin-right: 2em;"
+      alt="Dr. Tim Sweere"
+     class="img-responsive" />
+  <figcaption><i><a href = "https://erdw.ethz.ch/en/people/profile.MjUzOTYy.TGlzdC83NzMsOTI0MjA1OTI2.html" target="_blank" ><b>Dr. Tim Sweere</b></a> is lecturer at the Department of Earth Sciences of ETH Zürich. He investigates the cycling of different trace metals in the marine environment and their use as tracers in marine sediments. </i></figcaption>
 </figure>
 
 
