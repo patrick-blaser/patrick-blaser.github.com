@@ -42,8 +42,8 @@ Current OxyQuant sediment core sites:
 | IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | MSM96-11 | -14.8 | 47.9 | 4.8 | 247 | 661 | [F. Scholz](/OxyQuant/collaborators) |
 | MSM96-22 | -14.7 | 48.1 | 4.8 | 247 | 649 | [F. Scholz](/OxyQuant/collaborators) |
-| PCM00-3C | -110.1 | 24.7 | 0.7 | 8 | 893 | [J. Herguera](https://www.cicese.edu.mx/investigacion/personal_academico/932) {:target = "_blank"} |
-| BAP96-9-T | -113.4 | 25.3 | 1.3 | 35 | 687 | [J. Herguera](https://www.cicese.edu.mx/investigacion/personal_academico/932) {:target = "_blank"} |
+| PCM00-3C | -110.1 | 24.7 | 0.7 | 8 | 893 | [J. Herguera](https://www.cicese.edu.mx/investigacion/personal_academico/932){:target="_blank"} |
+| BAP96-9-T | -113.4 | 25.3 | 1.3 | 35 | 687 | [J. Herguera](https://www.cicese.edu.mx/investigacion/personal_academico/932){:target="_blank"} |
 | IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | IODP U1314 | -27.9 | 56.4 | 2.8 | 279 | 474 | [IODP](https://www.iodp.org/){:target="_blank"} |
 | ODP 642 | 2.9 | 67.2 | 1.3 | 307 | 632 | [IODP](https://www.iodp.org/){:target="_blank"} |
