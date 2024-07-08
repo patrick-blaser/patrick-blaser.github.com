@@ -23,6 +23,18 @@ A suite of sediment core sites will be used for the calibration of proxies for p
 
 Current OxyQuant sediment core sites:
 
+| Site | Lon <br> (°E) | Lat <br> (°N) | water <br> depth <br> (km) | BWO <br>(µmol/kg) | NPP <br> (mgC/m²/d) | thanks to |
+|:----------------|:-----------:|:--------:|:-------:|:-------:|:-------:|:-------:|
+| IODP U1302 | -45.6 | 50.2 | 3.6 | 295 | 698 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| MSM96-22 | -14.7 | 48.1 | 4.8 | 247 | 649 | [F. Scholz](/OxyQuant/collaborators) |
+| MSM96-11 | -14.8 | 47.9 | 4.8 | 247 | 661 | [F. Scholz](/OxyQuant/collaborators) |
+| IODP U1385 | -10.1 | 37.6 | 2.6 | 245 | 592 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| IODP U1391 | -9.41 | 37.4 | 1.1 | 188 | 858 | [IODP](https://www.iodp.org/){:target="_blank"} |
+| M136-338 | -76.5 | -13.9 | 0.2 | 16 | 4567 | [F. Scholz](/OxyQuant/collaborators) |
+| M136-242 | -76.6 | -14.0 | 0.3 | 8 | 4314 | [F. Scholz](/OxyQuant/collaborators) |
+| M136-409 | -76.7 | -14.0 | 0.9 | 42 | 3894 | [F. Scholz](/OxyQuant/collaborators) |
+| MD19-3580 | 52.0 | -45.7 | 2.7 | 214 | 413 | [X. Crosta](https://www.epoc.u-bordeaux.fr/indiv/XCrosta/){:target="_blank"} |
+
 
 
 {: .box-warning}
