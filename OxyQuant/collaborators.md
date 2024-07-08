@@ -4,13 +4,14 @@ title: OxyQuant Collaborators
 subtitle: people involved in OxyQuant 
 cover-img: "/assets/img/ocean_bubbles_corals_drawing.jpg"
 footer-extra: OxyQuant_image_source.html
-figure { 
-display: block;
+div {
+  display: block;
 }
 ---
 
 OxyQuant relies on the collaboration of an international team of scientists, including the following:
 
+<div>
 
 <figure>
    <img src="/assets/img/Portrait_SamuelJaccard.jpeg" style="width: 150px; float: left; margin-right: 2em;"
@@ -43,4 +44,5 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
   <figcaption><i><a href = "https://erdw.ethz.ch/en/people/profile.MjUzOTYy.TGlzdC83NzMsOTI0MjA1OTI2.html" target="_blank" ><b>Dr. Tim Sweere</b></a> is lecturer at the Department of Earth Sciences of ETH Zürich. He investigates the cycling of different trace metals in the marine environment and their use as tracers in marine sediments. </i></figcaption>
 </figure>
 
+</div>
 
