@@ -39,7 +39,7 @@ OxyQuant relies on the collaboration of an international team of scientists, inc
 
 <div display="block">
 <figure>
-   <img src="/assets/img/Portrait_TimSweere.jpg" style="width: 150px; float: left; margin-right: 2em;"
+   <img src="/assets/img/Portrait_TimSweere.jpg" style="width: 150px; float: left; margin-right: 2em; left: 0px"
       alt="Dr. Tim Sweere"
      class="img-responsive" />
   <figcaption><i><a href = "https://erdw.ethz.ch/en/people/profile.MjUzOTYy.TGlzdC83NzMsOTI0MjA1OTI2.html" target="_blank" ><b>Dr. Tim Sweere</b></a> is lecturer at the Department of Earth Sciences of ETH Zürich. He investigates the cycling of different trace metals in the marine environment and their use as tracers in marine sediments. </i></figcaption>
