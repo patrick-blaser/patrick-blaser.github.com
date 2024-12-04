@@ -29,5 +29,5 @@ subtitle: last update: 09.08.2024
  a:link { color: #000080; so-language: zxx; text-decoration: underline }
  </style>
 
-<embed src="/assets/files/2024_08_CV_Blaser.pdf" width="100%" height="12700" 
+<embed src="/assets/files/CV_Blaser.pdf" width="100%" height="12700" 
  type="application/pdf">
